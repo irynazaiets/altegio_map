@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="uk" dir="ltr">
+	<head>
+		<meta charset="utf-8">
+		<title>map yclients</title>
+		<link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css">
+		<script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+	</head>
+	<body>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		
+		<div class="map_container">
+			<div id="map_yclients"></div>
+		</div>
+
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+		<script>
+
+//////////////////////////////////////////////////////////////// basic variables
+
+var geo_dataset = []; // for json data
+
+// prepare data, make table & map
+function make_chart() {
+
+///////////////////////////////////////////////////////////////////// parse json
+
+	// fetch('https://raw.githubusercontent.com/tuziak/religion/main/all_property.geojson')
+	fetch('test.geojson')
+		.then(response => response.json())
+		.then(data => {
+			geo_dataset = data;
+			draw_map()
+		})
+		.catch(error => console.log(error));
+	} // end make_chart function
+
+
+//mapboxgl.accessToken = 'pk.eyJ1IjoidHV6aWFrIiwiYSI6ImNsaGlydGwyMTA0anQzcm94cDZvdWVnZjIifQ._gVx1QRvPqrY89afPS7VSQ';
+
+// wrap in fuction, wait for DOM and then initiate
+function draw_map() {
+	mapboxgl.accessToken = 'pk.eyJ1IjoiaXpheW50cyIsImEiOiJjbG5zcGNvbjYxanJyMmlzNjVzN25ubmRuIn0.L0TzZXefqk5wTJfLIXmPaQ'
+
+
+////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////// draw map
+
+
+	// create map
+	var main_map = new mapboxgl.Map({ container: 'map_yclients',
+	// style: 'mapbox://styles/tuziak/clhq0r2p801uh01qy2d6cc3rb',
+	// style: 'mapbox://styles/mapbox/outdoors-v12',
+	style: 'mapbox://styles/mapbox/satellite-streets-v12',
+	// style: 'mapbox://styles/tuziak/cljseg4h1019601r55zzec5g1',
+	center: [24.27,48.41], zoom: 10,
+	maxBounds: [17.687988,42.908160,49.328613,54.316523], options:{'language':'none'}
+})//.addControl(new mapboxgl.FullscreenControl());;
+	// on load resize map and add sources
+	main_map.on('load', () => {
+
+		main_map.resize(); // resize щоб не було сірих квадратів і всі тайли підвантажилися
+
+//////////////////////////////////////////////////////////////////// add sources
+
+
+		//one source for two layers
+		main_map.addSource('dataset', {
+			type: 'geojson',
+			// data: '/religion/data/dataset.geojson',
+			data: geo_dataset
+		});
+
+		// source for polygones
+		// main_map.addSource('lands_min', {
+		// 	type: 'geojson',
+		// 	// data: '/religion/data/final/lands_min.geojson',
+		// 	// data: 'https://cdn.rawgit.com/tuziak/religion/main/lands_min.geojson',
+		// 	data: 'https://raw.githubusercontent.com/tuziak/religion/main/lands_min.geojson',
+		// });
+
+
+///////////////////////////////////////////////////////////////////// add layers
+
+		main_map.addLayer({
+			id: 'will',
+			type: 'fill',
+			source: 'dataset',
+			paint: {
+				'fill-color': '#7CB4B8',
+				// 'fill-color': '#6457A6',
+				'fill-opacity': 0.7,
+				'fill-outline-color': 'white'
+			},
+			filter: ["all", ['==','class', 'will']]
+		});
+
+		main_map.addLayer({
+			id: 'is',
+			type: 'fill',
+			source: 'dataset',
+			paint: {
+				'fill-color': '#A1869E',
+				// 'fill-color': '#7CB4B8',
+				'fill-opacity': 0.7,
+				'fill-outline-color': 'white'
+			},
+			filter: ["all", ['==','class', 'is']]
+		});
+
+		main_map.addLayer({
+			id: 'road',
+			type: 'line',
+			source: 'dataset',
+			paint: {
+				'line-color': '#fff200',
+				'line-width': 3
+			},
+			filter: ["all", ['==','class', 'road']]
+		});
+
+		main_map.addLayer({
+			'id': 'labels',
+			'type': 'symbol',
+			'source': 'dataset',
+			'layout': {
+				'text-field': ['get', 'name'],
+				'text-variable-anchor': ['center'],
+				// 'text-radial-offset': 0.5,
+				'text-justify': 'auto',
+				'icon-image': ['get', 'icon'],
+				'text-size': 14
+			},
+			paint: {
+				// 'text-color': '#262626',
+				'text-color': 'whitesmoke',
+				// 'text-halo-color': 'gold',
+				// 'text-halo-width': 1,
+				// 'icon-halo-color': 'white',
+				// 'icon-text-fit': 'both'
+			},
+		})
+
+
+
+	}); // end load event
+}; //end function draw_map
+
+
+document.addEventListener('DOMContentLoaded', function(){ make_chart(); });
+
+
+
+// Syntax - what does square brackets around a variable declaration mean [duplicate]
+// https://stackoverflow.com/questions/47287635/syntax-what-does-square-brackets-around-a-variable-declaration-mean
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+
+
+////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////// load geojson
+
+
+// fly to Coney Island
+// document.querySelector('#fly_to').addEventListener('click', () => {
+// 	main_map.flyTo({ center: [-73.980646,40.572990], zoom: 15, pitch: 45 })
+// })
+
+// reset view
+// document.querySelector('#reset').addEventListener('click', () => {
+// 	main_map.flyTo({ center: INITIAL_CENTER, zoom: INITIAL_ZOOM, pitch: 0 })
+// });
+
+
+// document.querySelector('#fit_to').addEventListener('click', () => {
+// 	main_map.fitBounds([[23.049316,46.179830],[38.869629,51.862924]])
+//
+
+
+</script>
+
+<!-- <style media="screen">#map_religion{top:0;bottom:0;width:100%;height:640px;}.map_message{display:block;position:absolute;left:20px;max-width:200px;padding:5px 15px;margin-top:15px;border:1px solid #262626;border-radius:4px;z-index:100;background-color:#f8f9fc;box-shadow:0 0 10px 2px rgba(0,0,0,.1)}.mapboxgl-ctrl-geocoder{border:1px solid #262626}.dataTables_wrapper .dataTables_filter{margin-bottom:20px;text-align:center;float:none}.dataTables_wrapper .dataTables_filter input{width:420px;min-width:50%;height:42px;border:1px solid #2c2c34;font-size:20px}#table_religion_container{border-top:1px solid silver;margin-top:30px;padding:20px}</style> -->
+
+<style media="screen">
+
+	#map_yclients {
+		top: 0;
+		bottom: 0;
+		width: 100%;
+		height: 720px;
+	}
+
+
+		</style>
+
+	</body>
+</html>

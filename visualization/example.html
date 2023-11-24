@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Display a popup on hover</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <style>
+        .mapboxgl-popup {
+            max-width: 400px;
+            font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+        }
+    </style>
+    <div id="map"></div>
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoiaXpheW50cyIsImEiOiJjbG01NTZpdW0wMmF5M3BsZzQyMm56OGQzIn0.4xMjH0Vbyi_V2OKouxuH2w';
+        const map = new mapboxgl.Map({
+            container: 'map',
+            // style: 'mapbox://styles/mapbox/streets-v12',
+            style: 'mapbox://styles/mapbox/dark-v11',
+            center: [30.5400603, 50.43327],
+            zoom: 6
+        });
+
+        map.on('load', () => {
+            // Завантаження даних з файлу "data.json"
+            fetch('test.geojson')
+                .then(response => response.json())
+                .then(data => {
+                    map.addSource('places', {
+                        'type': 'geojson',
+                        'data': data
+                    });
+
+                    map.addLayer({
+                        'id': 'places',
+                        'type': 'circle',
+                        'source': 'places',
+                        'paint': {
+                            'circle-color': '#fff200',
+                            'circle-radius': 8,
+                            'circle-opacity': 0.55
+                            // 'circle-stroke-width': 2,
+                            // 'circle-stroke-color': '#ffffff'
+                        }
+                    });
+                    main_map.addLayer({
+                        'id': 'labels',
+                        'type': 'circle',
+                        'source': 'places',
+                        'layout': {
+                            'text-field': ['get', 'name'],
+                            // 'text-variable-anchor': ['center'],
+                            // // 'text-radial-offset': 0.5,
+                            // 'text-justify': 'auto',
+                            // 'icon-image': ['get', 'icon'],
+                            // 'text-size': 14
+                        },
+                        paint: {
+                            // 'text-color': '#262626',
+                            'text-color': 'whitesmoke',
+                            // 'text-halo-color': 'gold',
+                            // 'text-halo-width': 1,
+                            // 'icon-halo-color': 'white',
+                            // 'icon-text-fit': 'both'
+                        },
+                    })
+                });
+
+            const popup = new mapboxgl.Popup({
+                closeButton: false,
+                closeOnClick: false
+            });
+
+            map.on('mouseenter', 'places', (e) => {
+                map.getCanvas().style.cursor = 'pointer';
+
+                const coordinates = e.features[0].geometry.coordinates.slice();
+                const description = e.features[0].properties.name;
+
+                while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                    coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+                }
+
+                popup.setLngLat(coordinates).setHTML(description).addTo(map);
+            });
+
+            map.on('mouseleave', 'places', () => {
+                map.getCanvas().style.cursor = '';
+                popup.remove();
+            });
+        });
+    </script>
+
+</body>
+
+</html>
