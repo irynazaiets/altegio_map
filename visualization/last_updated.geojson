@@ -119,22 +119,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address": "Kotlyarevs'koho St, 15, Poltava, Poltavs'ka oblast, Ukraine, 36020",
-        "name": "Барбершоп Old Dutch Полтава",
-        "type": "Барбершоп"
-      },
-      "geometry": {
-        "coordinates": [
-          34.555563,
-          49.586732
-        ],
-        "type": "Point"
-      },
-      "id": "02d438e6617cc2b9ded7dcca0e42815a"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "website": "https://www.instagram.com/custom_true_barbershop/",
         "address": "29/2, Cherkasy, Cherkas'ka oblast, Ukraine, 18000",
         "name": "Барбершоп CUSTOM",
@@ -486,8 +470,8 @@
       },
       "geometry": {
         "coordinates": [
-          24.610027,
-          48.908821
+          24.6831901,
+          48.909853
         ],
         "type": "Point"
       },
@@ -1409,22 +1393,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address": "Kotlyarevs'koho St, 15, Poltava, Poltavs'ka oblast, Ukraine, 36020",
-        "name": "Барбершоп Old Dutch Полтава",
-        "type": "Барбершоп"
-      },
-      "geometry": {
-        "coordinates": [
-          34.555563,
-          49.586732
-        ],
-        "type": "Point"
-      },
-      "id": "31ba6cbe1163eba3cae26fe0256c74b7"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address": "Tarasa Shevchenka Ave, 27, Kamianske, Dnipropetrovs'ka oblast, Ukraine, 51900",
         "name": "the Right Club Barbershop Kamianske",
         "type": "Барбершоп"
@@ -1968,8 +1936,8 @@
       },
       "geometry": {
         "coordinates": [
-          24.660403,
-          48.917864
+          24.6928853,
+          48.9401639
         ],
         "type": "Point"
       },
@@ -3263,8 +3231,8 @@
       },
       "geometry": {
         "coordinates": [
-          24.660403,
-          48.917864
+          24.6995219,
+          48.9235495
         ],
         "type": "Point"
       },
@@ -4094,8 +4062,8 @@
       },
       "geometry": {
         "coordinates": [
-          24.660403,
-          48.917864
+          24.6985656,
+          48.9179695
         ],
         "type": "Point"
       },
@@ -6253,8 +6221,8 @@
       },
       "geometry": {
         "coordinates": [
-          24.660403,
-          48.917864
+          24.7389544,
+          48.9370772
         ],
         "type": "Point"
       },
