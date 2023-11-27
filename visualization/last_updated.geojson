@@ -2173,22 +2173,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address": "Halyts'ka St, 29, Vynnyky, L'vivs'ka oblast, Ukraine, 79495",
-        "name": "Barbershop \"Sokyra\" U Vynnykakh",
-        "type": "Барбершоп"
-      },
-      "geometry": {
-        "coordinates": [
-          24.138034,
-          49.817022
-        ],
-        "type": "Point"
-      },
-      "id": "478c1e98093d1e97563ba407f157b352"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address": "Sobornosti St, 22, Poltava, Poltavs'ka oblast, Ukraine, 36000",
         "name": "Brutmen",
         "type": "Барбершоп"
@@ -4755,22 +4739,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address": "Ivana Franka St, 46, L'viv, L'vivs'ka oblast, Ukraine, 79000",
-        "name": "Sokyra Barbershop",
-        "type": "Барбершоп"
-      },
-      "geometry": {
-        "coordinates": [
-          24.033561,
-          49.832375
-        ],
-        "type": "Point"
-      },
-      "id": "9e1d0507f53d31300e15d54ca33609dc"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "website": "https://www.instagram.com/frisor_barbershop_odessa/",
         "address": "вхід INTERSPORT, Овідіопольська дорога, 1 Епіцентр 7км, Одеса, Одеська область, 65000",
         "name": "Frisor Barbershop Odessa lV",
@@ -6000,22 +5968,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address": "Halyts'ka St, 29, Vynnyky, L'vivs'ka oblast, Ukraine, 79495",
-        "name": "Barbershop \"Sokyra\" U Vynnykakh",
-        "type": "Барбершоп"
-      },
-      "geometry": {
-        "coordinates": [
-          24.138034,
-          49.817022
-        ],
-        "type": "Point"
-      },
-      "id": "cb583e3371fb95f17e0c7d81cc53e7cb"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "website": "https://www.instagram.com/frisorworkshop/",
         "address": "вулиця Шота Руставелі, 33а, Київ, 02000",
         "name": "Frisor Barbershop 14",
@@ -6376,22 +6328,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address": "Ivana Franka St, 46, L'viv, L'vivs'ka oblast, Ukraine, 79000",
-        "name": "Sokyra Barbershop",
-        "type": "Барбершоп"
-      },
-      "geometry": {
-        "coordinates": [
-          24.033561,
-          49.832375
-        ],
-        "type": "Point"
-      },
-      "id": "db70ced5b4759627776ddc62e5772ad9"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "website": "https://www.instagram.com/frisorworkshop/",
         "address": "вулиця Басейна, 9, Київ, 02000",
         "name": "Frisor Barbershop Kyiv Baseina",
@@ -6671,22 +6607,6 @@
     {
       "type": "Feature",
       "properties": {
-        "address": "Ivana Franka St, 46, L'viv, L'vivs'ka oblast, Ukraine, 79000",
-        "name": "Sokyra Barbershop",
-        "type": "Барбершоп"
-      },
-      "geometry": {
-        "coordinates": [
-          24.033561,
-          49.832375
-        ],
-        "type": "Point"
-      },
-      "id": "e34075e6532162dd4616a7123512745a"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "address": "Khoryva St, 31б, Kyiv, Ukraine, 04071",
         "name": "Mr. Greys",
         "type": "Барбершоп"
@@ -6864,22 +6784,6 @@
         "type": "Point"
       },
       "id": "e85d11b010315b0a03be3cea806bfba0"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address": "Ivana Franka St, 46, L'viv, L'vivs'ka oblast, Ukraine, 79000",
-        "name": "Sokyra Barbershop",
-        "type": "Барбершоп"
-      },
-      "geometry": {
-        "coordinates": [
-          24.033561,
-          49.832375
-        ],
-        "type": "Point"
-      },
-      "id": "e8ee5affc0332d3cfc776a114cc28b9f"
     },
     {
       "type": "Feature",
