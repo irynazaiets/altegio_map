@@ -1,0 +1,5467 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/yana_shaparenko/",
+        "address": "вулиця Лазаревського, 6а, Конотоп, Сумська область, 41600",
+        "name": "Gosh Beauty",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [33.213837, 51.240484],
+        "type": "Point"
+      },
+      "id": "002c1783320c13f12c708892566b2476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Mykhailo Drahomanov St, 3г, Kolomyia, Ivano-Frankivs'ka oblast, Ukraine, 78203",
+        "name": "Barbershop Gentlemen's Custom",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.039843, 48.529723],
+        "type": "Point"
+      },
+      "id": "009ede51e0a37d6d20bf6bb349d76e75"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.365studio.ua/",
+        "address": "вулиця Анни Ахматової, 30, Київ, 02081",
+        "name": "365 Studio",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.620226, 50.408269],
+        "type": "Point"
+      },
+      "id": "00d00abf8c6c4b8b7191b50b76052f0c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Провулок Квітневий 2, проспект Шевченка, 2г, Вишгород, Київська обл., Ukraine, 07301",
+        "name": "Dave Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.488999, 50.581521],
+        "type": "Point"
+      },
+      "id": "00d798f52be3950b22059a58538be5af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/p/ChAftWPDg2-/?igshid=YmMyMTA2M2Y=",
+        "address": "Kurhuzova St, 6а, Vyshhorod, Kyivs'ka oblast, Ukraine, 07301",
+        "name": "fnb.nails.bar",
+        "type": "Манікюрний салон"
+      },
+      "geometry": {
+        "coordinates": [30.477927, 50.580991],
+        "type": "Point"
+      },
+      "id": "011ba0eed93d769e0bd9f6c466d288b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Lychakivska St, 39, L'viv, L'vivs'ka oblast, Ukraine, 79010",
+        "name": "Kosmetolohichnyy Tsentr Zhanvi",
+        "type": "Косметологічний центр"
+      },
+      "geometry": {
+        "coordinates": [24.04512, 49.840756],
+        "type": "Point"
+      },
+      "id": "01bd8f381b16b96a5ff6801d418c52ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/barber.house.official?utm_medium=copy_link",
+        "address": "Ostafiya Dashkovycha St, 41, Cherkasy, Cherkas'ka oblast, Ukraine, 18000",
+        "name": "BARBER HOUSE",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.058605, 49.440449],
+        "type": "Point"
+      },
+      "id": "01f051fe3ec2e002404e8778815b426e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/custom_true_barbershop/",
+        "address": "29/2, Cherkasy, Cherkas'ka oblast, Ukraine, 18000",
+        "name": "Барбершоп CUSTOM",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.073134, 49.444493],
+        "type": "Point"
+      },
+      "id": "04a79204d5749230ab3920687b699f4e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/ershovastyle/",
+        "address": "вулиця Практична, 2, Київ, 03191",
+        "name": "ERSHOVA STYLE",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.46735, 50.393886],
+        "type": "Point"
+      },
+      "id": "055206b03e9ea52f6e6156658b2c5068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/bradobrey_/",
+        "address": "проспект Миколи Бажана, 24/1, Київ, 02000",
+        "name": "Bradobrey VIII",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.640267, 50.398531],
+        "type": "Point"
+      },
+      "id": "07a2ec3639f2041d9a78db359ae60105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "600-Richchya St, 50, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21027",
+        "name": "Level",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [28.424598, 49.224735],
+        "type": "Point"
+      },
+      "id": "081674fd7925468ac156b6e31dbb2407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Troitska St, 37В, Kremenchuk, Poltavs'ka oblast, Ukraine, 39600",
+        "name": "MOJO THE BARBERSHOP / БАРБЕРШОП КРЕМЕНЧУК",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [33.40674, 49.070915],
+        "type": "Point"
+      },
+      "id": "097228155b24cb3930089405d6efc32a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Dniprovska Embankment, 18а, Kyiv, Ukraine, 02132",
+        "name": "Barber Pet (Днепровская набережная, ЖК 'Seven')",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.613332, 50.397929],
+        "type": "Point"
+      },
+      "id": "0a401ae106baee188be826827aabec06"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Strachenykh Ukrainskykh Natsionalistiv St, 8, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76009",
+        "name": "GC BARBERSHOP",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.711236, 48.921977],
+        "type": "Point"
+      },
+      "id": "0c7cb18e08e55f5c5b72847c7793d0ab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Bolshaya Perspektivnaya St, 12, Kropyvnytskyi, Kirovohrads'ka oblast, Ukraine, 25000",
+        "name": "Mane's Club Barbershop Kropyvnytskyi",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.272109, 48.516027],
+        "type": "Point"
+      },
+      "id": "0cd8043ff22b38d79a18f783a13881bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Hoholya St, 88/66, Kropyvnytskyi, Kirovohrads'ka oblast, Ukraine, 25000",
+        "name": "Barbershop ПиЖоН",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.268157, 48.50681],
+        "type": "Point"
+      },
+      "id": "0d633ce3166d24f1656ca32a783a3f39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.365studio.ua/",
+        "address": "Оболонський проспект, 26, Київ, 04205",
+        "name": "365 STUDIO OBOLON",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.497613, 50.51287],
+        "type": "Point"
+      },
+      "id": "0e1bbf0e46fbb8e12eb81f59db3129d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kyivska St, 75, Zhytomyr, Zhytomyrs'ka oblast, Ukraine, 10001",
+        "name": "Black Peppers Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [28.681364, 50.263511],
+        "type": "Point"
+      },
+      "id": "0ef0073ab51b2c4dc061ccfe158a9d73"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://topmans.com.ua/",
+        "address": "вулиця Гоголя, 80, Кропивницький, Кіровоградська область, 25000",
+        "name": "Барбер шоп Top man’s",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.2232, 48.507883],
+        "type": "Point"
+      },
+      "id": "0f0e7b8399b6aa6f8301dde4cfb74a52"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Koshova St, 111, Sofiivska Borshchahivka, Kyivs'ka oblast, Ukraine, 08147",
+        "name": "Time Barbershop. Мужские стрижки и бритьё (Софиевская Борщаговка).",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.334844, 50.406179],
+        "type": "Point"
+      },
+      "id": "0f26b64a4b7eee6f804aba63786f2fb1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kyivska St, 25, Zhytomyr, Zhytomyrs'ka oblast, Ukraine, 10001",
+        "name": "Fargo Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [28.666382, 50.257461],
+        "type": "Point"
+      },
+      "id": "108bf1f0224a7afd11d0bf87502e5f7b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Baidy Vyshnevets'koho St, 49, Cherkasy, Cherkas'ka oblast, Ukraine, 18001",
+        "name": "Raysʹkyy",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [32.056469, 49.442553],
+        "type": "Point"
+      },
+      "id": "10a25cfe23ca2667d76657f932b9bd4b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Nove Hwy, 8а, Bucha, Kyivs'ka oblast, Ukraine, 08292",
+        "name": "GC Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.213358, 50.554184],
+        "type": "Point"
+      },
+      "id": "10c68e417291773eb1ab6d76362cf68b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/zakatov_barber/",
+        "address": "м.Пустомити,вул.Кучабського 15",
+        "name": "Zakatov barber",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [23.895389, 49.722513],
+        "type": "Point"
+      },
+      "id": "1192e886f75846073ab410f9fd9aa378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Svobody St, 12/16, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+        "name": "BRUTMEN",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [36.239619, 50.00311],
+        "type": "Point"
+      },
+      "id": "131d6a038b3e1eadca02fcd397fe2767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/silavadee_od/",
+        "address": "вулиця Катерининська, 59, Одеса, Одеська область, 65000",
+        "name": "Silavadee",
+        "type": "Спеціаліст із тайського масажу"
+      },
+      "geometry": {
+        "coordinates": [30.733743, 46.480101],
+        "type": "Point"
+      },
+      "id": "14451776e55ee79c9e58f01d76763fb6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Potyomkins'ka St, 15, Kherson, Khersons'ka oblast, Ukraine, 73003",
+        "name": "Pro Man Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.614818, 46.631236],
+        "type": "Point"
+      },
+      "id": "14fcde193ff1efcce744517d8ddef739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "http://obraz.pp.ua/",
+        "address": "Holosiivskyi prospekt, 93, офис 546 5 этаж, Kyiv, Ukraine, 02000",
+        "name": "Философия стиля. Творческая мастерская",
+        "type": "Перукарня"
+      },
+      "geometry": {
+        "coordinates": [30.487412, 50.384519],
+        "type": "Point"
+      },
+      "id": "153214858ae3a68fd8181d4bfca0a383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisor_ivano_frankivsk/",
+        "address": "вулиця Гетьмана Мазепи, 164, Івано-Франківськ, Івано-Франківська область, 76000",
+        "name": "Барбершоп Frisor IV",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.6831901, 48.909853],
+        "type": "Point"
+      },
+      "id": "15a866d89c3dbd93103b1c16ec79b0b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Pushkinska St, 8а, Kyiv, Ukraine, 01004",
+        "name": "Tommy Gun Barbershop | Театральна",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.518545, 50.446641],
+        "type": "Point"
+      },
+      "id": "15da5145499891d6ed7c508afaa0ae3b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/ketlin.massage/",
+        "address": "Теодора Драйзера 17",
+        "name": "Ketlin Massage",
+        "type": "Масажна студія"
+      },
+      "geometry": {
+        "coordinates": [30.595839, 50.50702],
+        "type": "Point"
+      },
+      "id": "15fa7b2a3c3c90441ad1d2c7d7d180cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "92, Nezalezhnoi Ukrainy St, Zaporizhzhia, Zaporiz'ka oblast, Ukraine, 69000",
+        "name": "Nihtovoi servis",
+        "type": "Манікюрний салон"
+      },
+      "geometry": {
+        "coordinates": [35.146205, 47.83778],
+        "type": "Point"
+      },
+      "id": "16e0d6c84a0e7c884fb2fc0da6805d80"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Prospekt Sobornosti, 30А, Kyiv, Ukraine, 02105",
+        "name": "Студия эстетики тела Марины Костровой",
+        "type": "Масажна студія"
+      },
+      "geometry": {
+        "coordinates": [30.609552, 50.43972],
+        "type": "Point"
+      },
+      "id": "17f82094378b3c150fa15adafec5a6b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Valova St, 10а/1, Kolomyia, Ivano-Frankivs'ka oblast, Ukraine, 78200",
+        "name": "Lava Nails Studio",
+        "type": "Манікюрний салон"
+      },
+      "geometry": {
+        "coordinates": [25.03997, 48.527384],
+        "type": "Point"
+      },
+      "id": "18555c523048cc03d89e124e9acd763e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "ТЦ \"Прима Вера\" 0 поверх, Pershotravneva St, 36а, Kremenchuk, Poltavs'ka oblast, Ukraine, 39600",
+        "name": "Comfort-Zone",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [33.420883, 49.065112],
+        "type": "Point"
+      },
+      "id": "194164ff413ea15ac9c20157f67ef3a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Bel'veders'ka St, 10а, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76000",
+        "name": "GC Barbershop/Барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.706563, 48.922299],
+        "type": "Point"
+      },
+      "id": "1a5af229e5e92503338427aa2e082a1b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Yefremova St, 33, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+        "name": "Tsentr Zdorovoyi Shkiry Kosmeya",
+        "type": "Косметологічний центр"
+      },
+      "geometry": {
+        "coordinates": [24.007698, 49.832098],
+        "type": "Point"
+      },
+      "id": "1a6d6527151a924d2335e0cbcd6b8136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/manesclub_barbershop/",
+        "address": "вулиця Єсеніна, 6, Кривий Ріг, Дніпропетровська область, 50027",
+        "name": "MANES CLUB BARBERSHOP",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [33.396437, 47.908966],
+        "type": "Point"
+      },
+      "id": "1aaa87fb6ae2a803b0d9571de47193fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/black_jack_irpen?igshid=MzRlODBiNWFlZA==",
+        "address": "Mechnykova St, 108, Irpin, Kyivs'ka oblast, Ukraine, 08200",
+        "name": "Барбершоп 𝙱𝚕𝚊𝚌𝚔 𝙹𝚊𝚌𝚔",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.212838, 50.51875],
+        "type": "Point"
+      },
+      "id": "1b761a939ed727512432ba8a4ebb66d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вулиця Предславинська 57 офіс 149 поверх 2 кабінет 1, кабінет, 2, Київ, Ukraine, 01001",
+        "name": "NO TATTOO",
+        "type": "Дерматологічна клініка"
+      },
+      "geometry": {
+        "coordinates": [30.527183, 50.415234],
+        "type": "Point"
+      },
+      "id": "1ba91b9a2aa6d174cdf30dc49e004793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/wow.kate.nails?igshid=MjEwN2IyYWYwYw==%20%20%20%20",
+        "address": "Mytropolyta Andreia Sheptytskoho St, 24, Kyiv, Ukraine, 02002",
+        "name": "Манікюр Лівобережна Київ",
+        "type": "Манікюрний салон"
+      },
+      "geometry": {
+        "coordinates": [30.593156, 50.456945],
+        "type": "Point"
+      },
+      "id": "1bf4ca2fb4a67f7e7483e7a1e1c4879e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Teatralna St, 66, Kropyvnytskyi, Kirovohrads'ka oblast, Ukraine, 25000",
+        "name": "Барбершоп Akcent",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.273741, 48.507905],
+        "type": "Point"
+      },
+      "id": "1cea446cb568ffb5725df4a80fcafd82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kotlyarevs'koho St, 15, Poltava, Poltavs'ka oblast, Ukraine, 36020",
+        "name": "Барбершоп Old Dutch Полтава",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [34.555563, 49.586732],
+        "type": "Point"
+      },
+      "id": "1ddebbc110f9f9afa240aa50df71862c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "264, Shevchenka Blvd, Cherkasy, Cherkas'ka oblast, Ukraine, 18000",
+        "name": "Barbershop Doberman",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.067521, 49.439254],
+        "type": "Point"
+      },
+      "id": "1e6f8acdab674ae83b88b09b659480a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Shevchenka St, 120, Pavlohrad, Dnipropetrovs'ka oblast, Ukraine, 51400",
+        "name": "GC Barbershop/Барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [35.869434, 48.530126],
+        "type": "Point"
+      },
+      "id": "1e84d21468c86791b5773ba2de4398ce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/salon_oops_marina?r=nametag",
+        "address": "1, Liubotyn, Kharkivs'ka oblast, Ukraine, 62433",
+        "name": "САЛОН КРАСИ OOPS",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [35.92465, 49.943395],
+        "type": "Point"
+      },
+      "id": "1f7e5944ebd6e5705e1f161dc978c91f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Mykhailivska St, 11/2, Zhytomyr, Zhytomyrs'ka oblast, Ukraine, 10014",
+        "name": "Barbershop OLD TIME",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [28.663864, 50.255044],
+        "type": "Point"
+      },
+      "id": "1f81119990df9634a518fc0f4a90c2a4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Sobornosti St, 22, Poltava, Poltavs'ka oblast, Ukraine, 36000",
+        "name": "Brutmen",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [34.559159, 49.586037],
+        "type": "Point"
+      },
+      "id": "1ffb6e15fa1fa7c9166904e89ed5ceff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Mykoly Zakrevs'koho St, 95а, Kyiv, Ukraine, 02232",
+        "name": "Салон краси MiloslavSky",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.625958, 50.529609],
+        "type": "Point"
+      },
+      "id": "20aca77b038f01744e43622f28e598ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Myru St, 13а, Obukhiv, Kyivs'ka oblast, Ukraine, 08702",
+        "name": "ЧИСТО МУЖСКАЯ ПАРИКМАХЕРСКАЯ",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.655169, 50.131137],
+        "type": "Point"
+      },
+      "id": "20f539a17309d6921a37fe1cbf3e2d35"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/portal_barbershop?igshid=MzNlNGNkZWQ4Mg==",
+        "address": "Yuriya Kondratyuka St, 5, Kyiv, Ukraine, 04200",
+        "name": "PORTAL barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.459101, 50.526261],
+        "type": "Point"
+      },
+      "id": "213082563005f0fa3e378caa11ab82e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/laseresthetic_boryspil/",
+        "address": "Kyivskyi shliakh St, 71а/1, Boryspil', Kyivs'ka oblast, Ukraine, 08300",
+        "name": "laser Esthetic",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.952293, 50.351966],
+        "type": "Point"
+      },
+      "id": "21378f0a93c5206325b4ec1118515de3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Ivana Franka St, 25, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76018",
+        "name": "Центр лазерної епіляції Steffany",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [24.716516, 48.92266],
+        "type": "Point"
+      },
+      "id": "223700c857b2fa20652e5865b848247e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Potyomkins'ka St, 15, Kherson, Khersons'ka oblast, Ukraine, 73000",
+        "name": "ProFashion Spa&Beauty",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [32.614801, 46.631253],
+        "type": "Point"
+      },
+      "id": "225b62276854e4e9f391ea9f8d10882a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/unity_men/",
+        "address": "вулиця Січеславська Набережна, 37, Дніпро, Дніпропетровська область, 49000",
+        "name": "Барбершоп UNITY",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [35.055957, 48.467907],
+        "type": "Point"
+      },
+      "id": "22b32ba697d692359e395e4621f97dfa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Stepana Bandery St, 15, Luts'k, Volyns'ka oblast, Ukraine, 43005",
+        "name": "BARBERMACH Чоловічі стрижки & Догляд",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.331417, 50.747662],
+        "type": "Point"
+      },
+      "id": "23b9683bb514500b54da7e92e2914ffd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/razors.zp/",
+        "address": "бульвар Шевченка, 14",
+        "name": "Барбершоп RAZORS",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [35.110464, 47.849302],
+        "type": "Point"
+      },
+      "id": "243323a54c8a24e31be52d19801ec05b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Mykoly Dmitriieva St, Poltava, Poltavs'ka oblast, Ukraine, 36000",
+        "name": "Lytvynenko Clinic Центр дерматологии",
+        "type": "Медична клініка"
+      },
+      "geometry": {
+        "coordinates": [34.547816, 49.579172],
+        "type": "Point"
+      },
+      "id": "2433cecda022dfb5ad287f894d343c1c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Luhanska St, 10, L'viv, L'vivs'ka oblast, Ukraine, 79034",
+        "name": "Barbershop BARBERIS",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.050033, 49.808756],
+        "type": "Point"
+      },
+      "id": "2468d4a34f7dde33ea2096ed4e3cc173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/color_chic_irpin",
+        "address": "Sadova St, 6А, Irpin, Kyivs'ka oblast, Ukraine, 08200",
+        "name": "COLOR CHIC",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.243534, 50.525924],
+        "type": "Point"
+      },
+      "id": "247b67f682056d18581ed646ea45ff83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vulytsya Khychiya, 4, Chortkiv, Ternopil's'ka oblast, Ukraine, 48501",
+        "name": "Barbershop \"bearded Home\"",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.798415, 49.016369],
+        "type": "Point"
+      },
+      "id": "25b6049528320c8b6ec46bf97810d6e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Zan'kovets'koi St, 18, Chernivtsi, Chernivets'ka oblast, Ukraine, 58000",
+        "name": "DARK Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.935131, 48.295138],
+        "type": "Point"
+      },
+      "id": "25f0bf1eaca2b898a759fc3f00b1a7bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Stepovoho Frontu St, 6, Poltava, Poltavs'ka oblast, Ukraine, 36000",
+        "name": "Барбершоп Old Dutch (ЖК Династія)",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [34.527376, 49.566216],
+        "type": "Point"
+      },
+      "id": "2631bf2d0d38c61e9008c118f08272ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Antonova St, 9В, Irpin, Kyivs'ka oblast, Ukraine, 08200",
+        "name": "BarberShop 49 Irpin",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.247517, 50.52332],
+        "type": "Point"
+      },
+      "id": "26dfccb52de04a5fa642a76b592a7d06"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/bradobrey_/",
+        "address": "вулиця Салютна, 2, Київ, 02000",
+        "name": "Bradobrey XI",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.40146, 50.471287],
+        "type": "Point"
+      },
+      "id": "279d42ce2c65482eb66e391214d422d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Danyla Halyts'koho St, 19, Rivne, Rivnens'ka oblast, Ukraine, 33000",
+        "name": "AURA-ROOM",
+        "type": "Масажний спа-центр"
+      },
+      "geometry": {
+        "coordinates": [26.284979, 50.609875],
+        "type": "Point"
+      },
+      "id": "27b1cc658229ad9fbeb2fe8f5db24081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisorworkshop/",
+        "address": "вулиця Маршала Тимошенка, 29, Київ, 04210",
+        "name": "FRISOR Barbershop Obolon",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.499229, 50.512794],
+        "type": "Point"
+      },
+      "id": "27f238fe0602cc5b9e520bef1a670d14"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/b.loft_ua/",
+        "address": "вулиця Університетська, будинок 1-г, Ірпінь, Київська обл., Ukraine, 08205",
+        "name": "B.Loft",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.242038, 50.49715],
+        "type": "Point"
+      },
+      "id": "2820c1d092d056a67d369fc11735836e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Pankivska St, 12, Kyiv, Ukraine, 01033",
+        "name": "Gentelmen's Club",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.50331, 50.439499],
+        "type": "Point"
+      },
+      "id": "2831cd493d7361c5d3a72848db857a07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Moskovska St, 7, Mykolaiv, Mykolaivs'ka oblast, Ukraine, 54000",
+        "name": "Frisor",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [31.994208, 46.97221],
+        "type": "Point"
+      },
+      "id": "28407bfe2711e8cebebd5554d05e3885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Mykhaila Hrushevskoho St, 22а, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76010",
+        "name": "Косметологічна клініка Fine Line",
+        "type": "Косметологічний салон"
+      },
+      "geometry": {
+        "coordinates": [24.715128, 48.922568],
+        "type": "Point"
+      },
+      "id": "28c37b0c2f2193d8c2a2ea5796f98800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Irpinska St, 69, Kyiv, Ukraine, 03179",
+        "name": "Jazz",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.350947, 50.459404],
+        "type": "Point"
+      },
+      "id": "2b1125e200905502b8ff5e77ecbf9098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/klyuch.space/",
+        "address": "Євгена Чикаленка, 32б",
+        "name": "Чоловічий простір КЛЮЧ.",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.513067, 50.44173],
+        "type": "Point"
+      },
+      "id": "2b8d7ecffc8d3653c5a8dc60c5d69930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/purpurstudia_kiev/",
+        "address": "вулиця Миколи Шепелєва, 5, Київ, 02000",
+        "name": "PUR PUR BEAUTY STUDIO",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.428668, 50.422014],
+        "type": "Point"
+      },
+      "id": "2d0d6c6c1772dbfb7955983add64ffba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "L'va Tolstoho St, 22, Odesa, Odes'ka oblast, Ukraine, 65023",
+        "name": "Студія краси \" FoKs \"",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.72559, 46.480898],
+        "type": "Point"
+      },
+      "id": "2d105e1dc3643fce111a13d93f83c754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "ул. Рымарская, 15б, Харьков, Харьковская область, 61000, Kharkiv, Kharkivs'ka oblast, Ukraine, 61057",
+        "name": "The Puncher",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [36.230855, 49.996527],
+        "type": "Point"
+      },
+      "id": "2daee505b13e02f788547a2e116a4fba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "P'yatnyts'ka St, 11, Chernihiv, Chernihivs'ka oblast, Ukraine, 14005",
+        "name": "Grove Street Old Барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [31.298191, 51.494482],
+        "type": "Point"
+      },
+      "id": "2e71c5fbf3211349068f1addd036abe0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Nezalezhnosti St, 51, Kovel', Volyns'ka oblast, Ukraine, 45000",
+        "name": "Kovel Barbershop Freedom",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.713304, 51.211916],
+        "type": "Point"
+      },
+      "id": "2e937a999d2292bdb19bf09d53c50e5c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/studio.white.bird/",
+        "address": "проспект Тараса Шевченка, 6, Кам’янське, Дніпропетровська область, 51909",
+        "name": "Studio White bird",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [34.610369, 48.517074],
+        "type": "Point"
+      },
+      "id": "2eec07e3187c1cc49600f37153dfd6ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/barbershop_kenty/",
+        "address": "вулиця Святослава Хороброго, 31, Дніпро, Дніпропетровська область, 49000",
+        "name": "Kenty Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [29.252752, 48.730533],
+        "type": "Point"
+      },
+      "id": "2f4551f11ce6d8c444de2662515719b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Peredova St, 27 б, Kyiv, Ukraine, 02000",
+        "name": "Салон Краси \"Queen & King\"",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.548132, 50.338978],
+        "type": "Point"
+      },
+      "id": "2f6932e5c5139f0eada3b9f1327e10bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "навпроти лікарні Св.Мартіна, Vulytsya Ivana Parkaniya, 5a, Mukacheve, Zakarpats'ka oblast, Ukraine, 89611",
+        "name": "MediSkin (Мукачево)",
+        "type": "Косметологічний салон"
+      },
+      "geometry": {
+        "coordinates": [22.717853, 48.4441],
+        "type": "Point"
+      },
+      "id": "316c5f453152e16a3e3cbd2e3386704d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Tarasa Shevchenka Ave, 27, Kamianske, Dnipropetrovs'ka oblast, Ukraine, 51900",
+        "name": "the Right Club Barbershop Kamianske",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [34.600151, 48.515514],
+        "type": "Point"
+      },
+      "id": "31c07f9705dc35318b4baa4dd769ecd2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kuzmy Skriabina St, 1, Офіс 110, Khodosivka, Kyivs'ka oblast, Ukraine, 08173",
+        "name": "Салон Краси «PROFI BEAUTY»",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.532188, 50.275824],
+        "type": "Point"
+      },
+      "id": "31de96e445f39a263f12e744f451eb63"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Korolenka Ln, 19, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+        "name": "Central Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [36.234301, 49.990359],
+        "type": "Point"
+      },
+      "id": "32ee15f87cd3c2580878b9d2a6888f83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Hor'koho St, 11, Chernivtsi, Chernivets'ka oblast, Ukraine, 58000",
+        "name": "Frisor barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.932358, 48.29562],
+        "type": "Point"
+      },
+      "id": "33a6d50230f072c8bbb33a6c6b68ebbe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/sweetsugar.ing/",
+        "address": "Shveds'ka St, 2, Poltava, Poltavs'ka oblast, Ukraine, 36000",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [34.536334, 49.597586],
+        "type": "Point"
+      },
+      "id": "33d5796d41cb5c2e9ab0a3a55c410535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Volodymyra Korolenka St, 2, L'viv, L'vivs'ka oblast, Ukraine, 79008",
+        "name": "Shelter Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.040254, 49.84208],
+        "type": "Point"
+      },
+      "id": "3556194bea5e666f25fe56f67a263996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Pavlivska Square, 2, Kharkiv, Kharkivs'ka oblast, Ukraine, 61003",
+        "name": "MANN Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [36.228205, 49.986874],
+        "type": "Point"
+      },
+      "id": "3558e57ca8884996664ba8fec87e21e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Mykhaila Hrushevskoho St, 22А, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76000",
+        "name": "Al's",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [24.71526, 48.922264],
+        "type": "Point"
+      },
+      "id": "3569b66a0a7b65eff59e4bdcb0658fbd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kyivskyi shliakh St, 67, Boryspil', Kyivs'ka oblast, Ukraine, 08301",
+        "name": "PRIME барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.951248, 50.351848],
+        "type": "Point"
+      },
+      "id": "35e8f2fd6b6699332414d98d2c4ebea7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Mykhailivs'ka St, 24/11, Kyiv, Ukraine, 04053",
+        "name": "BAR.T Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.522613, 50.454737],
+        "type": "Point"
+      },
+      "id": "36b9f54a3d3d98f37c2ab0fb7e6dcfc1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Zaliznychna St, 7, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+        "name": "Leoderm",
+        "type": "Медична клініка"
+      },
+      "geometry": {
+        "coordinates": [23.996211, 49.845842],
+        "type": "Point"
+      },
+      "id": "36e113235e7138d9f514fa5ed6c5c13e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вулиця Київська, 247, офiс 16, Brovary, Kyivs'ka oblast, Ukraine, 07400",
+        "name": "Your Style - Салон Краси",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.785038, 50.517872],
+        "type": "Point"
+      },
+      "id": "3790f3249d1cc7076a69d9271057cd11"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/bradobrey_/",
+        "address": "вулиця Олександра Архипенка, 4, Київ, 02000",
+        "name": "Bradobrey",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.508185, 50.495456],
+        "type": "Point"
+      },
+      "id": "37958c3261c550b4c1b4336af4b3227c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/ag_nailstudio",
+        "address": "Hradynska St, 3, Kyiv, Ukraine, 02222",
+        "name": "Nail Studio AG",
+        "type": "Манікюрний салон"
+      },
+      "geometry": {
+        "coordinates": [30.600461, 50.517712],
+        "type": "Point"
+      },
+      "id": "37f6e1ddec593c0edf8dc6ab357aaa4e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vul. Byshivsʹka, 7, Sofiivska Borshchahivka, Kyivs'ka oblast, Ukraine, 08147",
+        "name": "FamBarbers Барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.338489, 50.403527],
+        "type": "Point"
+      },
+      "id": "38736bf63cd249b6a0eae6c515ae194c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Proskurivs'ka St, 45, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29000",
+        "name": "Frisor barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [26.987267, 49.423366],
+        "type": "Point"
+      },
+      "id": "389d059cfe629847897819db973762f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Potyomkins'ka St, 48А, Kherson, Khersons'ka oblast, Ukraine, 73009",
+        "name": "Grader Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.609419, 46.641321],
+        "type": "Point"
+      },
+      "id": "3959d7ef2bf0a6b6c9a841fb23c3daf1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Myru Ave, 7, Rivne, Rivnens'ka oblast, Ukraine, 33017",
+        "name": "Team Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [26.251409, 50.622398],
+        "type": "Point"
+      },
+      "id": "39d14d1227adf008f9d9f31c159b3293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Zolotoustivska St, 24, Kyiv, Ukraine, 01135",
+        "name": "Mr.Colt Barbershop | Coffee | Massage",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.488525, 50.450069],
+        "type": "Point"
+      },
+      "id": "39df3c1ba060dc98ad931bfb5183735e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Shashkevycha St, 3, Ternopil, Ternopil's'ka oblast, Ukraine, 46002",
+        "name": "Frisor Barbershop Ternopil",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.589845, 49.549358],
+        "type": "Point"
+      },
+      "id": "39e6d75636668bbda05af284fd534f3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://alsbarbershop.com.ua/",
+        "address": "вулиця Осокорська, 2А, Київ, 02132",
+        "name": "Al's Barbershop Kyiv",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [29.889255, 50.37594],
+        "type": "Point"
+      },
+      "id": "39ef75de139e909387b82a8768f7eac3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Henerala Petrova St, 61, Odesa, Odes'ka oblast, Ukraine, 65000",
+        "name": "Папа+Син перукарня",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [30.699971, 46.434583],
+        "type": "Point"
+      },
+      "id": "3ae2107e434d88dd0b2bf191fd7f3c3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вулиця Буніна, 12, Odesa, Odes'ka oblast, Ukraine, 65000",
+        "name": "Преображенский Цирюльня",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [30.744158, 46.480974],
+        "type": "Point"
+      },
+      "id": "3b2689181839e60eb4dbf9fab9c21198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kyivska St, 243А, Brovary, Kyivs'ka oblast, Ukraine, 07400",
+        "name": "ЦирульниК Barbershop/Барбершоп 2",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [30.783268, 50.516788],
+        "type": "Point"
+      },
+      "id": "3b6f40133ad5c1b013abc02fbb1c6b64"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kam'yanets'ka St, 54, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29013",
+        "name": "GC Barbershop/Барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [26.97742, 49.423555],
+        "type": "Point"
+      },
+      "id": "3c5c50cb13877f893e8255141a42c25a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.365studio.ua/",
+        "address": "вул. Тарасівська, 9в, Київ",
+        "name": "365 CENTER",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.505023, 50.43803],
+        "type": "Point"
+      },
+      "id": "3ca36e23babe7b8e56baa00c09b22bac"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/bradobrey_/",
+        "address": "вулиця Польова, 65, Київ, 02000",
+        "name": "Bradobrey IX",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.443802, 50.436747],
+        "type": "Point"
+      },
+      "id": "3e21d2f5ac9e07b797444b946a943594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisorworkshop/",
+        "address": "вулиця Саксаганського, 27, Київ, 02000",
+        "name": "Frisor Barbershop Kyiv II",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.5120923, 50.4357179],
+        "type": "Point"
+      },
+      "id": "3e2a7ba9d96bfa4c3eabb997a5776344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vulytsya Sahaydachnoho, 4, Sofiivska Borshchahivka, Kyivs'ka oblast, Ukraine, 08147",
+        "name": "Frisor 19 Софіївська Борщагівка",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.334598, 50.407054],
+        "type": "Point"
+      },
+      "id": "3ed53fbb46d8e0813e2ed558eccf7682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/headline.team/",
+        "address": "вулиця Алчевських, 3, Харків, Харківська область, 61000",
+        "name": "Headline Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [36.236626, 50.00145],
+        "type": "Point"
+      },
+      "id": "3f9e6b34001dd755ba8728e323f209ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisor_barbershop_odessa/",
+        "address": "вулиця Троїцька, 34, Одеса, Одеська область, 65000",
+        "name": "Frisor Barbershop Odessa",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.629778, 46.45111],
+        "type": "Point"
+      },
+      "id": "3fade9d4f2c940241d2d09a9e93b6095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisor_ivano_frankivsk/",
+        "address": "вулиця Пасічна, 15а, Івано-Франківськ, Івано-Франківська область, 76008",
+        "name": "Барбершоп Frisor III «Чоловічі стрижки»",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.6928853, 48.9401639],
+        "type": "Point"
+      },
+      "id": "429b4b4d15ab18b07ff799f3e4343ba2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/shklyarenko.barber/",
+        "address": "вулиця Шолом-Алейхема, 22, Біла Церква, Київська обл., 09100",
+        "name": "Shklyarenko.barber",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.117136, 49.794059],
+        "type": "Point"
+      },
+      "id": "42a569e63fff80be428317156aa351c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/barbershop__method?igshid=MzRlODBiNWFlZA==",
+        "address": "Vulytsya Mykhayla Velychka, 3, Bilohorodka, Kyivs'ka oblast, Ukraine, 08140",
+        "name": "БАРБЕРШОП «МЕТОД»",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.236239, 50.391167],
+        "type": "Point"
+      },
+      "id": "441ff48a5edb8d1242feebcf3a13c0d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Viacheslava Chornovola St, 6а, Brovary, Kyivs'ka oblast, Ukraine, 07400",
+        "name": "ЦирульниК Barbershop/Барбершоп 3",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.781345, 50.518043],
+        "type": "Point"
+      },
+      "id": "4528e3ecd935b905112a994c0660e1b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisorworkshop/",
+        "address": "вул. Антоновича, 41, Київ, 02000",
+        "name": "Frisor Barbershop Soul на Антоновича",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.456518, 50.43624],
+        "type": "Point"
+      },
+      "id": "46604a1aa57e5cf4c0e6500e6def238c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Heroiv Nebesnoi Sotni Ave, 16/4, Sofiivska Borshchahivka, Kyivs'ka oblast, Ukraine, 08147",
+        "name": "Барбершоп Лютий - Чоловічі Стрижки",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.340958, 50.398138],
+        "type": "Point"
+      },
+      "id": "46767bcc88ffb446aaa229fab6bccd31"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Hoholya St, 80 к, Kropyvnytskyi, Kirovohrads'ka oblast, Ukraine, 25000",
+        "name": "Barbershop Barber Pole | Барбершоп Барбер Пол (вул. Гоголя 80 К)",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.265749, 48.507165],
+        "type": "Point"
+      },
+      "id": "46b0c4f498bca3d7c1f61da4637414d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vorontsovska St, 20, Kherson, Khersons'ka oblast, Ukraine, 73009",
+        "name": "Frisor BarberShop Kherson II",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.608122, 46.631799],
+        "type": "Point"
+      },
+      "id": "46eec1ee35e85f5c64c49a80bcd9bb9e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Akademiсian Zarifa Aliyeva St, 66/1, Irpin, Kyivs'ka oblast, Ukraine, 08202",
+        "name": "Шугаринг Ірпінь | SugarMe",
+        "type": "Салон епіляції"
+      },
+      "geometry": {
+        "coordinates": [30.240887, 50.522379],
+        "type": "Point"
+      },
+      "id": "470c1609b87ccd8166a89fe886e80ca7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "ресторан ЗОРЯ, Pylypa Orlyka St, 27А, Kherson, Khersons'ka oblast, Ukraine, 73003",
+        "name": "GC Barbershop/Барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.608615, 46.633462],
+        "type": "Point"
+      },
+      "id": "472122d3dcbcbb185ef4f6d5b303be1d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Дніпровська набережна, 26, Київ, 02132",
+        "name": "Corleone",
+        "type": "Перукар"
+      },
+      "geometry": {
+        "coordinates": [30.612705, 50.393316],
+        "type": "Point"
+      },
+      "id": "474845bd5665d2b499d1c83d683fc425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Sykhivska St, 12А, L'viv, L'vivs'ka oblast, Ukraine, 79066",
+        "name": "KING’S BARBERSHOP",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.062904, 49.795877],
+        "type": "Point"
+      },
+      "id": "4783ec17234715714f23a8c2498bbe9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Zamkova St, 9, Ternopil, Ternopil's'ka oblast, Ukraine, 46000",
+        "name": "LASERGOOD ТЕ, центр лазерної косметології",
+        "type": "Косметологічний салон"
+      },
+      "geometry": {
+        "coordinates": [25.589218, 49.551419],
+        "type": "Point"
+      },
+      "id": "491b40b4eef78f8a14a2faf04522cfed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kniahyni Olhy St, 23, Sarny, Rivnens'ka oblast, Ukraine, 34504",
+        "name": "Men's Area барбершоп сарни",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [26.617498, 51.333955],
+        "type": "Point"
+      },
+      "id": "494c4b122db480d9fbbd5f57f292af76"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Chervonoyi Kalyny Ave, 64, L'viv, L'vivs'ka oblast, Ukraine, 79049",
+        "name": "Дитяча Перукарня Львів - MiniBRO",
+        "type": "Дитяча перукарня"
+      },
+      "geometry": {
+        "coordinates": [24.056506, 49.791449],
+        "type": "Point"
+      },
+      "id": "49eeb182a407cf65286e4eb375e5e7bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Chervonoyi Kalyny Ave, 36, L'viv, L'vivs'ka oblast, Ukraine, 79070",
+        "name": "Салон Краси Сrystal",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [24.04752, 49.798537],
+        "type": "Point"
+      },
+      "id": "4c5daea6ff334dfae4aa967e00966ec3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/barbershop.s.kayfom_irpin?igshid=MWZjMTM2ODFkZg==",
+        "address": "Universitetska St, 3/9, Irpin, Kyivs'ka oblast, Ukraine, 08200",
+        "name": "Barbershop S KAYFOM",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.228752, 50.507005],
+        "type": "Point"
+      },
+      "id": "4c608d62e20a2797a043e2c054581018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kniazia Romana Mstyslavycha St, 4, Kyiv, Ukraine, 02000",
+        "name": "Abstudio -Восковая депиляция, Шугаринг, Лазерная эпиляция, Электроэпиляция, Косметология",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.609104, 50.458901],
+        "type": "Point"
+      },
+      "id": "4c8d7c5c26409b3ac61b5cf5396af51a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Proskurivs'ka St, 53, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29000",
+        "name": "LASERGOOD KHMEL, центр лазерної косметології",
+        "type": "Косметологічний салон"
+      },
+      "geometry": {
+        "coordinates": [26.988567, 49.422701],
+        "type": "Point"
+      },
+      "id": "4cf942a2c0847600dd7d10eb9f9482f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Hrushevs'koho St, 57, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29000",
+        "name": "Барбершоп BarbaNera",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [26.986047, 49.424732],
+        "type": "Point"
+      },
+      "id": "4d35fcafb1c5f038dfbb8285ea22d03a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Akademika Yanhelya St, 8, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+        "name": "Zhinochyy Fitnes-Klub Olena",
+        "type": "Спортзал"
+      },
+      "geometry": {
+        "coordinates": [35.005275, 48.428871],
+        "type": "Point"
+      },
+      "id": "4d3f226475c33788e68051da97a353f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Obolonskyi Ave, 26, Kyiv, Ukraine, 04205",
+        "name": "MVK Obolon Residences",
+        "type": "Салон манікюру та педикюру"
+      },
+      "geometry": {
+        "coordinates": [30.500169, 50.51329],
+        "type": "Point"
+      },
+      "id": "4d4481eb3ca0a3bee4b64c635f98a4f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/in_color_by_jt?utm_source=qr",
+        "address": "Myslyvska St, 13, Hostomel', Kyivs'ka oblast, Ukraine, 08290",
+        "name": "Студія краси in_COLOR by JT Гостомель|Буча",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.264992, 50.557517],
+        "type": "Point"
+      },
+      "id": "4e46e04d3ac2df054ded3856f8b9c627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Halyny Romanovoi St, 13, Kamianske, Dnipropetrovs'ka oblast, Ukraine, 51900",
+        "name": "Barbershop Senator ( Барбершоп Каменское)",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [34.609105, 48.512632],
+        "type": "Point"
+      },
+      "id": "4ebb0af99e0c2bdbb9c34beb5b7be8b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Soborna St, 126/1, Sofiivska Borshchahivka, Kyivs'ka oblast, Ukraine, 08131",
+        "name": "Man’s Street Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.332738, 50.402932],
+        "type": "Point"
+      },
+      "id": "4f2aa84ce1aa237d154f05891da75a79"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Keletska St, 83, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21000",
+        "name": "Continental",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [28.407899, 49.225937],
+        "type": "Point"
+      },
+      "id": "4f5c35e73b6be04c6569feb9e04b90f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Akademika Maslova St, 10а, Kremenchuk, Poltavs'ka oblast, Ukraine, 39600",
+        "name": "mr.Bro barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [33.408766, 49.062569],
+        "type": "Point"
+      },
+      "id": "4fb2fdd651bddada94428b3c6cda2bfe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/proof_barbershop_?igshid=NzZhOTFlYzFmZQ==",
+        "address": "Drahana St, 15, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+        "name": "Proof Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.054423, 49.784117],
+        "type": "Point"
+      },
+      "id": "5087f4fd82965508360f7e76dba9977d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vulytsya Pereyaslavska, 4, Kolomyia, Ivano-Frankivs'ka oblast, Ukraine, 78203",
+        "name": "Kult Barbershop Коломия",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.03695, 48.525587],
+        "type": "Point"
+      },
+      "id": "50a8b25769d0fc0eca72972a6b936309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Horodotska St, 181, L'viv, L'vivs'ka oblast, Ukraine, 79018",
+        "name": "Косметологічна клініка \"Жанві\"",
+        "type": "Косметологічна клініка"
+      },
+      "geometry": {
+        "coordinates": [23.994061, 49.835031],
+        "type": "Point"
+      },
+      "id": "50a901dea25ec2e6f242e2373ebb8731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Tarashchans'ka St, 155, Bila Tserkva, Kyivs'ka oblast, Ukraine, 09100",
+        "name": "Барбершоп GRIZZLY 2 Біла Церква",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.122038, 49.774218],
+        "type": "Point"
+      },
+      "id": "511a7729d4535ae874ee8ec05ac212e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Nezalezhnosti Blvd, 2Б, Brovary, Kyivs'ka oblast, Ukraine, 07400",
+        "name": "ЦирульниК Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.79476, 50.511896],
+        "type": "Point"
+      },
+      "id": "512265a45e6291b33bf727d4158bc949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Sholudenka St, 15Д, Vyshhorod, Kyivs'ka oblast, Ukraine, 07300",
+        "name": "Frisor Barbershop Vyshhorod",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.486004, 50.590493],
+        "type": "Point"
+      },
+      "id": "51557a4c0384f9b769cce844d00fa770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вул. Євгена Сверстюка 6В, прим, 244, Kyiv, Ukraine, 02002",
+        "name": "Здорово студія масажу. Антицелюлітний масаж, класичний, масаж спини.",
+        "type": "Масажна студія"
+      },
+      "geometry": {
+        "coordinates": [30.604815, 50.44683],
+        "type": "Point"
+      },
+      "id": "51c5ccfa9fc8fa9f30cb660de5ba863d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Saksahanskoho St, 13/42, Kyiv, Ukraine, 01033",
+        "name": "ЦирульниК Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.518087, 50.435613],
+        "type": "Point"
+      },
+      "id": "542a73c34ca0c4334dd96141336901c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вулиця Стрийська, 200а, Львів, Львівська область, 79031",
+        "name": "Impero Barbers",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.014336, 49.799985],
+        "type": "Point"
+      },
+      "id": "54f21e7de212e0be743f8d98b83f5d81"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Baidy Vyshnevets'koho St, 48, Cherkasy, Cherkas'ka oblast, Ukraine, 18007",
+        "name": "Барбершоп Old Dutch Черкаси",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.05596, 49.442792],
+        "type": "Point"
+      },
+      "id": "558c70bd174513ccc9cb388f45bc18f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/barberpole.kr/",
+        "address": "вул. Гоголя 80 К (сквер)",
+        "name": "BARBER POLE",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.266192, 48.507062],
+        "type": "Point"
+      },
+      "id": "55e53b373f2eb16704906dbeb07cbd90"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Bulʹvar Bohdana Khmelʹnytsʹkoho, 11, Bucha, Kyivs'ka oblast, Ukraine, 08292",
+        "name": "Frisor Barbershop Bucha",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.204796, 50.551148],
+        "type": "Point"
+      },
+      "id": "5796aa287e463e2d0843b2b80d047ed1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Sumska St, 26, Kharkiv, Kharkivs'ka oblast, Ukraine, 61057",
+        "name": "Khalilov`s Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [36.233794, 49.997589],
+        "type": "Point"
+      },
+      "id": "5833bbee29a0aa828fad40f8f1746ac7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Bohdana Khmel'nyts'koho St, 35, Ternopil, Ternopil's'ka oblast, Ukraine, 46002",
+        "name": "Barbershop \"Axe\"",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.598074, 49.556997],
+        "type": "Point"
+      },
+      "id": "58cae18fbdae0b67a23a698e9bfad625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Sadova Vulytsya, Novosilky, Kyivs'ka oblast, Ukraine, 08162",
+        "name": "Brooklyn Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.447814, 50.346952],
+        "type": "Point"
+      },
+      "id": "5951c158f50327468d3af1fcaad254d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Hirshmana St, 17Б, 17B, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+        "name": "MANN BARBERSHOP&BAR",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [36.24002, 50.000589],
+        "type": "Point"
+      },
+      "id": "5a456bbcfb3c793ac40bfaa3333e632b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vasylia Tiutiunnyka St, 5 А-Б, Kyiv, Ukraine, 03150",
+        "name": "CLOUD NINE",
+        "type": "Оздоровчий центр"
+      },
+      "geometry": {
+        "coordinates": [30.522332, 50.429358],
+        "type": "Point"
+      },
+      "id": "5ad83fcbcffbd503ce5df129eca98f37"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://alsbarbershop.com.ua/",
+        "address": "вулиця Андрія Мельника, 10, Івано-Франківськ, Івано-Франківська область, 76000",
+        "name": "AL'S Barbershop Ivano-Frankivsk III",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.654045, 48.917733],
+        "type": "Point"
+      },
+      "id": "5b36f1c342096baf3cb6318d1760e727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Oleksandra Polia Ave, 102, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49000",
+        "name": "Barbershop Hairotic",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [35.012086, 48.434326],
+        "type": "Point"
+      },
+      "id": "5cb0050efa346f30e4697161528be199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/manesclub_barbershop_velykogo_/",
+        "address": "вулиця Володимира Великого, 6",
+        "name": "MANES CLUB BARBERSHOP",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [33.39945, 47.935952],
+        "type": "Point"
+      },
+      "id": "5d3b403e4e93fa0c50d420e998ddbb26"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Heroiv ATO Ave, 2, Kamianske, Dnipropetrovs'ka oblast, Ukraine, 51937",
+        "name": "W-ROOM",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [34.563128, 48.594899],
+        "type": "Point"
+      },
+      "id": "5d8bbb5e5812fb34efa26dd8b47836d7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vulytsya Yevhena Konovalʹtsya, 7Б, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76011",
+        "name": "FIRM ІІ Barbershop – Чоловіча перукарня",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.711084, 48.917993],
+        "type": "Point"
+      },
+      "id": "5dec28a0b029e16ab7f4e0ddddaa62b8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "600-Richchya St, 52, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21000",
+        "name": "Amster",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [28.425784, 49.224115],
+        "type": "Point"
+      },
+      "id": "604309ac12a2c415ad05b9411027368b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Mitskevycha St, 34, Rivne, Rivnens'ka oblast, Ukraine, 33013",
+        "name": "Frisor Barbershop Rivne",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [26.255139, 50.623279],
+        "type": "Point"
+      },
+      "id": "60806e75eadaa6c5f550138ba5ea5420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Yevropeiska St, 10, Boryspil', Kyivs'ka oblast, Ukraine, 08300",
+        "name": "Barbershop Dog",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.957439, 50.352609],
+        "type": "Point"
+      },
+      "id": "608075c5ca7fe36b2352b747aa762095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Soborna St, 34, Rivne, Rivnens'ka oblast, Ukraine, 33000",
+        "name": "GC BARBERSHOP",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [26.25504, 50.619118],
+        "type": "Point"
+      },
+      "id": "60cea8a1cafee4d37ffc0f61a669cf62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/tvorchyi_barbershop?igshid=MzRlODBiNWFlZA==",
+        "address": "Nezalezhnosti St, 122, Kovel', Volyns'ka oblast, Ukraine, 45000",
+        "name": "BARBERSHOP TVORCHYI",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.707541, 51.214284],
+        "type": "Point"
+      },
+      "id": "61f3173149ffec9ac0f315262a35c736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/solidolbarbers/",
+        "address": "кн. Ольги 98b",
+        "name": "Solidol Kn. Olgy",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.001252, 49.818951],
+        "type": "Point"
+      },
+      "id": "6254fb2481c9709027dd84dfc7bfbb47"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Harmatna St, 38 Б, Kyiv, Ukraine, 03067",
+        "name": "Aura Spa Salon",
+        "type": "Спа-салон"
+      },
+      "geometry": {
+        "coordinates": [30.427557, 50.442609],
+        "type": "Point"
+      },
+      "id": "640a008fce557d927132e7536a4c8ede"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Heroiv Nebesnoi Sotni Ave, 16/5, Sofiivska Borshchahivka, Kyivs'ka oblast, Ukraine, 08147",
+        "name": "Zemits Laser",
+        "type": "Послуги з лазерної епіляції"
+      },
+      "geometry": {
+        "coordinates": [30.340278, 50.3982],
+        "type": "Point"
+      },
+      "id": "650821a297ef067890d3270c58182bd0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вулиця Воскресенська, 33Б, Дніпро, Дніпропетровська область, 49000",
+        "name": "Mon Pion",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [35.034493, 48.462608],
+        "type": "Point"
+      },
+      "id": "653824248543adffc010071c7549bf1c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/sahar_sugaring_studio/",
+        "address": "вулиця Левітана, 105Д, Одеса, Одеська область, 65000",
+        "name": "SAHAR SUGARING STUDIO",
+        "type": "Салон епіляції"
+      },
+      "geometry": {
+        "coordinates": [30.714385, 46.40558],
+        "type": "Point"
+      },
+      "id": "661cb3e1981f42737afaa35113cf102e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Sakharova St, 3а, Odesa, Odes'ka oblast, Ukraine, 65000",
+        "name": "Men's Koot Барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.809236, 46.577205],
+        "type": "Point"
+      },
+      "id": "66800b7212bda70b7430b6acd79263b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Shevchenka St, 15, Kropyvnytskyi, Kirovohrads'ka oblast, Ukraine, 25000",
+        "name": "Chub Style Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.269789, 48.511771],
+        "type": "Point"
+      },
+      "id": "6837f7864c673517271827052d419b10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "БЦ \"МАИС, 11-а ст. Люстдорфської дороги, Odesa, Odes'ka oblast, Ukraine, 65000",
+        "name": "Barbershop Bad Boy",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.714048, 46.382651],
+        "type": "Point"
+      },
+      "id": "6845bb399a86f07197acfb91188c48ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Raiduzhny masyv, 8A, Lymanka, Odes'ka oblast, Ukraine, 65125",
+        "name": "Папа+Син перукарня",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [30.705352, 46.403384],
+        "type": "Point"
+      },
+      "id": "69c335343f642dadec39a93f0c613b7b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Pushkinska St, 9Б, Kyiv, Ukraine, 02000",
+        "name": "Frisor Barbershop Kyiv Pushkinska",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.519408, 50.446395],
+        "type": "Point"
+      },
+      "id": "6b302986d623d06b3ded3912f3a1a30a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Sichovi Striltsi St, 14, Kolomyia, Ivano-Frankivs'ka oblast, Ukraine, 78200",
+        "name": "AL'S Barbershop Kolomyia",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.042994, 48.530597],
+        "type": "Point"
+      },
+      "id": "6b8ba6b511f0cb91031e5e7d4e67463b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Petra Doroshenka St, 50, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+        "name": "Frisor Lemberg Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.02156, 49.8372],
+        "type": "Point"
+      },
+      "id": "6be4f6c089fff842637857557bd06931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vulytsya Mykhayla Velychka, 3, Bilohorodka, Kyivs'ka oblast, Ukraine, 08140",
+        "name": "Барбершоп \"METHOD\" - чоловіча перукарня",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.236246, 50.391345],
+        "type": "Point"
+      },
+      "id": "6c231e363b19021aa143c6ea6c1e689c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Akademika Viliamsa St, 46/1, Odesa, Odes'ka oblast, Ukraine, 65000",
+        "name": "Barbershoptairovo",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.73195, 46.390368],
+        "type": "Point"
+      },
+      "id": "6db5f11001f155e6518ec4da2e94532a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisor_barbershop_kharkiv/",
+        "address": "Харків, вул. Отакара Яроша, 29",
+        "name": "Frisor Barbershop Kharkiv 2",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [36.2249972, 50.0281252],
+        "type": "Point"
+      },
+      "id": "6dc466b563db3d2075d9cc62d845594c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Lva Tolstoho St, 23/1, Kyiv, Ukraine, 02230",
+        "name": "Frisor Barber School Kyiv",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.506928, 50.440805],
+        "type": "Point"
+      },
+      "id": "6dd105d3f2fea6bb053fb66517b85fb6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/blades_dnepr/",
+        "address": "вулиця Виконкомівська, 12, Дніпро, Дніпропетровська область, 49000",
+        "name": "БАРБЕРШОП BLADES",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [35.04557, 48.459684],
+        "type": "Point"
+      },
+      "id": "6e9ba8b462e3aade2d1f7101674e95c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Central Ave, 7, Mykolaiv, Mykolaivs'ka oblast, Ukraine, 54000",
+        "name": "Active-SPA wellness studio",
+        "type": "Спа"
+      },
+      "geometry": {
+        "coordinates": [31.963663, 46.968278],
+        "type": "Point"
+      },
+      "id": "6f42834dbbb24b4c07ba80b24e6b8cca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisor_ivano_frankivsk/",
+        "address": "вулиця Бельведерська, 35, Івано-Франківськ, Івано-Франківська область, 76010",
+        "name": "Frisor Барбершоп Івано-Франківськ II",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.6995219, 48.9235495],
+        "type": "Point"
+      },
+      "id": "6f858664a483293ae325df9adffceb0c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Bohdana Havrylyshyna St, 3, Kyiv, Ukraine, 03055",
+        "name": "SugarMe",
+        "type": "Салон епіляції"
+      },
+      "geometry": {
+        "coordinates": [30.46672, 50.451993],
+        "type": "Point"
+      },
+      "id": "70168a358ddf4bb7eea7eaf8e67d0d4d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vyshhorodska St, 32/2, Kyiv, Ukraine, 04074",
+        "name": "Барбершоп LUMBERJACK",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.451707, 50.507528],
+        "type": "Point"
+      },
+      "id": "7051f55851cb01b904ff126ff7311da5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://sonetclinic.com/prices/",
+        "address": "Аркадіївський провулок, 4, Одеса, Одеська область, 65000",
+        "name": "Sonet Clinic лазерне видалення родимок , дерматолог Одеса, єпіляція",
+        "type": "Дерматолог"
+      },
+      "geometry": {
+        "coordinates": [30.754387, 46.426607],
+        "type": "Point"
+      },
+      "id": "70f876809608cfb5ee2fa96df28ce692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Ser'ozhnikova St, 7, Chernihiv, Chernihivs'ka oblast, Ukraine, 14000",
+        "name": "Grove Street Famous Барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [31.302773, 51.491691],
+        "type": "Point"
+      },
+      "id": "71df44e9d779f035efbae4f0500f392e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Geroyiv Maydanu St, 55, Chernivtsi, Chernivets'ka oblast, Ukraine, 58000",
+        "name": "Barbershop London",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.9294, 48.273525],
+        "type": "Point"
+      },
+      "id": "720bbdb46ed4d71f581a68c482167ec8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Haharina Ave, 171, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49107",
+        "name": "Rondo Salon-Perukarnya",
+        "type": "Перукар"
+      },
+      "geometry": {
+        "coordinates": [35.026908, 48.424929],
+        "type": "Point"
+      },
+      "id": "73b8fda0801c22fd5e672cf25eb5ac54"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Soborna St, 32/29, Kremenchuk, Poltavs'ka oblast, Ukraine, 39600",
+        "name": "Barbershop Net Head",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [33.417468, 49.067769],
+        "type": "Point"
+      },
+      "id": "7426419054cfb4845ee286cbc8c63ace"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://brutmen.com/poltava/",
+        "address": "вулиця Соборності, 22, Полтава, Полтавська область, 36000",
+        "name": "Брутмен",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [34.556584, 49.586037],
+        "type": "Point"
+      },
+      "id": "7477d9d97c73b5de53b1611df54dc12c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/rich_beauty_salon_zp/",
+        "address": "Учнівська вулиця, 102, Запоріжжя, Запорізька область, 69000",
+        "name": "Rich beauty",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [35.041906, 47.87511],
+        "type": "Point"
+      },
+      "id": "748e89acafec6a0fa7daa49156e5f660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/hibeauty.kyiv/",
+        "address": "вулиця Княжий Затон, 17, Київ, 02000",
+        "name": "Hi Beauty",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.617579, 50.401472],
+        "type": "Point"
+      },
+      "id": "75060f708d4217df52f0085e8c74d103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/barber_yu_sixx/",
+        "address": "вулиця Шота Руставелі, 31А, Київ, 02000",
+        "name": "RIVAL",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.516214, 50.437261],
+        "type": "Point"
+      },
+      "id": "756a29a59bcd2ea5fa4e45ba03a197b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Naberezhna St, 6ж, Vyshhorod, Kyivs'ka oblast, Ukraine, 07301",
+        "name": "Барбершоп Брадобрей X",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.494473, 50.582122],
+        "type": "Point"
+      },
+      "id": "756cff2f9345adf6c833d2e21b822daf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Sakharova St, 9, Odesa, Odes'ka oblast, Ukraine, 65000",
+        "name": "Клиника Rinomed",
+        "type": "Лікар загальної практики"
+      },
+      "geometry": {
+        "coordinates": [30.813292, 46.578205],
+        "type": "Point"
+      },
+      "id": "75e8211b707053cd8c57354e3aa3e983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Sakharova St, 1Б/2, 4 этаж, Odesa, Odes'ka oblast, Ukraine, 65123",
+        "name": "Express Nails",
+        "type": "Салон манікюру та педикюру"
+      },
+      "geometry": {
+        "coordinates": [30.811575, 46.5811],
+        "type": "Point"
+      },
+      "id": "766c5cff6aba93f4ca4eab9987fd97ce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Peremohy St, 11, Kremenchuk, Poltavs'ka oblast, Ukraine, 39605",
+        "name": "KOT.13 THE BARBER STUDIO",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [33.403073, 49.064451],
+        "type": "Point"
+      },
+      "id": "777f3127ab293d5c445e4b6ca6c1de22"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kotsiubynskoho St, Zhytomyr, Zhytomyrs'ka oblast, Ukraine, 10008",
+        "name": "Barbershop Old Time III",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [28.674963, 50.248099],
+        "type": "Point"
+      },
+      "id": "77b518602c81eb6386b52ffa308023de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Tarasa Shevchenka Blvd, 12, Ternopil, Ternopil's'ka oblast, Ukraine, 46001",
+        "name": "Laguna",
+        "type": "Спа-салон"
+      },
+      "geometry": {
+        "coordinates": [25.594671, 49.550883],
+        "type": "Point"
+      },
+      "id": "77d01d1c85424e127fccc93131bc6bf2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Nebesnoi Sotni Ave, 47/3, Odesa, Odes'ka oblast, Ukraine, 65000",
+        "name": "Эпиляция и косметология LaserStudio",
+        "type": "Послуги з лазерної епіляції"
+      },
+      "geometry": {
+        "coordinates": [30.711729, 46.407607],
+        "type": "Point"
+      },
+      "id": "78420c3605be10ef30be9b686161582f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisorworkshop/",
+        "address": "вулиця, Дніпровська набережна, 19, Київ, 02000",
+        "name": "Frisor Barbershop Kyiv Dniprovska Embankment",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.608667, 50.4076231],
+        "type": "Point"
+      },
+      "id": "79a8818c1e762b61a67dd26b7435d69d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вулиця Петрівська, 1, Sofiivska Borshchahivka, Kyivs'ka oblast, Ukraine, 08131",
+        "name": "Barbershop A-CLUB Барбершоп Мужские стрижки",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.34018, 50.405136],
+        "type": "Point"
+      },
+      "id": "7a14fe5906a6a611a8d466ef87af78da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Mykoly Zakrevs'koho St, 103, Kyiv, Ukraine, 02000",
+        "name": "Голярня барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.621876, 50.531333],
+        "type": "Point"
+      },
+      "id": "7a3aa0e35d1950838e0326259fbcebb7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Вул. Героїв Небесної Сотні, 32, Bila Tserkva, Kyivs'ka oblast, Ukraine, 09100",
+        "name": "Барбершоп «С кайфом»",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.11433, 49.798283],
+        "type": "Point"
+      },
+      "id": "7aa45780a4e4edfe990a4d5100ef79fb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://alsbarbershop.com.ua/",
+        "address": "вулиця Слобідська, 2, Івано-Франківськ, Івано-Франківська область, 76000",
+        "name": "AL'S Barbershop Ivano-Frankivsk IV",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.609272, 48.894055],
+        "type": "Point"
+      },
+      "id": "7b347779da3eddeaa803f8f3d92095d1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kniazia Romana St, 28, L'viv, L'vivs'ka oblast, Ukraine, 79003",
+        "name": "Solidol",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.032953, 49.837544],
+        "type": "Point"
+      },
+      "id": "7b9ffaef70a70a72b93d667622d6a4de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vulytsya Heroyiv Maydanu, 19А, Sokil'nyky, L'vivs'ka oblast, Ukraine, 81130",
+        "name": "Atlas Barbershop | Барбершоп Львів",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.010929, 49.791413],
+        "type": "Point"
+      },
+      "id": "7bba702002e8c4b83ab1575c0faa9e79"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/silavadee_od/",
+        "address": "Генуезька вулиця, 3б, Одеса, Одеська область, 65000",
+        "name": "Silavadee",
+        "type": "Спеціаліст із тайського масажу"
+      },
+      "geometry": {
+        "coordinates": [30.756668, 46.436353],
+        "type": "Point"
+      },
+      "id": "7bbf5b175e96c7820ff382a5ecae5aea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/fresh_art_beauty_salon/",
+        "address": "Teatralna St, 46, Kolomyia, Ivano-Frankivs'ka oblast, Ukraine, 78200",
+        "name": "Fresh Art",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [25.038132, 48.529566],
+        "type": "Point"
+      },
+      "id": "7c23706bd54cf981acbc302e31645052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вулиця Буніна, 21, Odesa, Odes'ka oblast, Ukraine, 65000",
+        "name": "Tommy Gun Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.741258, 46.480819],
+        "type": "Point"
+      },
+      "id": "7c433c6ea036ad911d4d972e84ae0c6b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kosmonavtiv Ave, 40, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21000",
+        "name": "GC Barbershop/Барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [28.419731, 49.223837],
+        "type": "Point"
+      },
+      "id": "7c833ffb230c4c39c7f46837aff8e692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Klubnyi Ln, 3, Bila Tserkva, Kyivs'ka oblast, Ukraine, 09100",
+        "name": "Барбершоп GRIZZLY в Білій Церкві",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.112759, 49.795807],
+        "type": "Point"
+      },
+      "id": "7cff1d0e40fff6ea6469c685aec5581c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Voli Ave, 10, Luts'k, Volyns'ka oblast, Ukraine, 43010",
+        "name": "Steffany Lasers and Cosmetology",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [25.33165, 50.746135],
+        "type": "Point"
+      },
+      "id": "7d6d90be31cc52a49c7623c98b45a98b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/dino_barbershop2023?igshid=OGQ5ZDc2ODk2ZA==",
+        "address": "Keletska St, 61а, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21000",
+        "name": "Dino barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [28.416434, 49.224684],
+        "type": "Point"
+      },
+      "id": "7f8ffc7982c3db5059af6338f2aa6f16"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Nezalezhnosti Ave, 121а, Chernivtsi, Chernivets'ka oblast, Ukraine, 58005",
+        "name": "Студія масажу Master",
+        "type": "Масажна студія"
+      },
+      "geometry": {
+        "coordinates": [25.93436, 48.266054],
+        "type": "Point"
+      },
+      "id": "82d58c0a24efd13df2902b2e938c5a83"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/solidolbarbers/",
+        "address": "вулиця Під Дубом, 7, Львів, Львівська область, 79019",
+        "name": "Solidol Pid Dubom",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.01977, 49.850362],
+        "type": "Point"
+      },
+      "id": "843b68055c166d054286bae63157e611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kharkivs'ke Hwy, 152, Kyiv, Ukraine, 02091",
+        "name": "БАНТИК НА ХАРЬКОВСКОМ",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.656189, 50.417918],
+        "type": "Point"
+      },
+      "id": "8450ceeb4a052dbc6467fb288670393a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Maksymilianivska St, 12, Kharkiv, Kharkivs'ka oblast, Ukraine, 61024",
+        "name": "The Barber",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [36.248318, 50.001608],
+        "type": "Point"
+      },
+      "id": "864eacf183dc6165e2d77a91ac221560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Voli Ave, 12, Luts'k, Volyns'ka oblast, Ukraine, 43000",
+        "name": "GC Barbershop/Барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.333196, 50.74599],
+        "type": "Point"
+      },
+      "id": "866a3de9da8873383ff9468fcd78c65f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Yelyzavety Chavdar St, 2, Kyiv, Ukraine, 02000",
+        "name": "Студія манікюру і педикюру MAGIC.STUDIO",
+        "type": "Салон манікюру та педикюру"
+      },
+      "geometry": {
+        "coordinates": [30.622673, 50.392584],
+        "type": "Point"
+      },
+      "id": "866f63edf9c38e05854ea9bad9c499a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "бульвар Ромена Роллана, 4,Київ, Kyiv, Kyiv city, Ukraine, 03162",
+        "name": "Салон краси Siesta",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.372476, 50.429363],
+        "type": "Point"
+      },
+      "id": "86db63f6fd7760a3a71c6a834c398adc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/haardos_barbershop/?hl=uk",
+        "address": "Volodymyrs'ka St, 46, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29000",
+        "name": "Haardos Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [26.988042, 49.424417],
+        "type": "Point"
+      },
+      "id": "880142c2854bf2823df5d079469f7b33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisorworkshop/",
+        "address": "вулиця Родини Крістерів, 18/6, Київ, 02000",
+        "name": "Frisor Barbershop 17",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.269394, 50.50181],
+        "type": "Point"
+      },
+      "id": "89270713cb8acb4c9d239258486ffb98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://stomat-centre.com.ua/",
+        "address": "вулиця Івана та Юрія Лип, 60, Одеса, Одеська область, 65000",
+        "name": "СтоматЦентр",
+        "type": "Стоматологічна клініка"
+      },
+      "geometry": {
+        "coordinates": [30.699319, 46.42821],
+        "type": "Point"
+      },
+      "id": "89e7d462dd987cb7a62495acd92949e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kostyantyna Dan'kevycha St, 16, Kyiv, Ukraine, 02000",
+        "name": "Barbershop ЦирульниК",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.611244, 50.52202],
+        "type": "Point"
+      },
+      "id": "8a38e118a908673768d85499f54908b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Zubrivska St, 1А, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+        "name": "Eney Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.065141, 49.799792],
+        "type": "Point"
+      },
+      "id": "8a4cc2f83bf85feca25e24ff0f59cab1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Frunze St, 12, Yuvileine, Dnipropetrovs'ka oblast, Ukraine, 52005",
+        "name": "Inside Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [35.076203, 48.531342],
+        "type": "Point"
+      },
+      "id": "8b7de89f5d7d8945106bcf11c359350a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisor_ivano_frankivsk/",
+        "address": "вулиця Гетьмана Мазепи, 58, Івано-Франківськ, Івано-Франківська область, 76000",
+        "name": "Барбершоп Frisor Івано-Франківськ",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.6985656, 48.9179695],
+        "type": "Point"
+      },
+      "id": "8baf58b5eb48a25c2bf5dff19cd8ad70"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Mytropolyta Andreia Sheptytskoho St, 10, 2, Kyiv, Ukraine, 02000",
+        "name": "Шоколадное обертывание",
+        "type": "Спа-салон"
+      },
+      "geometry": {
+        "coordinates": [30.5976, 50.454235],
+        "type": "Point"
+      },
+      "id": "8c873fbe1fb4ca578cedf389e7a9f537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/crimson_barbershop?r=nametag",
+        "address": "Lisovoho St, 12, Kryvyi Rih, Dnipropetrovs'ka oblast, Ukraine, 50000",
+        "name": "Crimson",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [33.451417, 47.949129],
+        "type": "Point"
+      },
+      "id": "8d2ad674b4606fb1f61fb0e6fb2d7659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/barbershop.artist?utm_medium=copy_link",
+        "address": "Akademika Hlushka Ave, 16/18, Odesa, Odes'ka oblast, Ukraine, 65000",
+        "name": "Artist",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.721077, 46.39907],
+        "type": "Point"
+      },
+      "id": "8dad9d6f989f9ae3eafbd64d86daaec5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vitse-Admirala Zhukova Ln, 2, Odesa, Odes'ka oblast, Ukraine, 65000",
+        "name": "Chop-Chop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.734379, 46.483922],
+        "type": "Point"
+      },
+      "id": "8e8af2ab6c5a67040522d02d711d2f0d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Heroiv UPA St, 3, Truskavets', L'vivs'ka oblast, Ukraine, 82200",
+        "name": "Стрекоза центр здоров'я",
+        "type": "Салон краси та здоров'я"
+      },
+      "geometry": {
+        "coordinates": [23.502126, 49.279176],
+        "type": "Point"
+      },
+      "id": "907ad8029fdcc58edb443d85297f3813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/babybossdnepr/",
+        "address": "вулиця Маршала Малиновського, 6, Дніпро, Дніпропетровська область, 49000",
+        "name": "Baby boss",
+        "type": "Дитяча перукарня"
+      },
+      "geometry": {
+        "coordinates": [35.063417, 48.482108],
+        "type": "Point"
+      },
+      "id": "90c424210c8dc09ef6d048eb78aa1a6d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Pushkins'ka St, 43, K. 1, Kharkiv, Kharkivs'ka oblast, Ukraine, 61002",
+        "name": "Because Studio | Косметолог Харків",
+        "type": "Косметолог"
+      },
+      "geometry": {
+        "coordinates": [36.240646, 49.999279],
+        "type": "Point"
+      },
+      "id": "912cd45ea36db120f3ee8d9680b69493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Zodchykh St, 1а, Vinnytsia, Vinnyts'ka oblast, Ukraine, 21000",
+        "name": "Level",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [28.452022, 49.219018],
+        "type": "Point"
+      },
+      "id": "9268de2835a07cd6a81ba5b833153723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/kletka.barbershop?igshid=1xzjvlvok50la",
+        "address": "Vul. Rodymtseva, 5, Chernihiv, Chernihivs'ka oblast, Ukraine, 14000",
+        "name": "ᴮᴬᴿᴮᴱᴿˢᴴᴼᴾ ｋｌｅｔｋａ ᶜᴴᴱᴿᴺᴵᴳᴼᵛ",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [31.305265, 51.492114],
+        "type": "Point"
+      },
+      "id": "928344ceb156254843aa787224c50b7a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Stryiska St, 34, Drohobych, L'vivs'ka oblast, Ukraine, 82100",
+        "name": "Boroda",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [23.51678, 49.350781],
+        "type": "Point"
+      },
+      "id": "92a031d5277eddace3cfbf42fed993cd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Улица Гетьманская, 9, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49130",
+        "name": "Black Beards, барбершоп Дніпро, на лівому березі",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [35.016372, 48.525727],
+        "type": "Point"
+      },
+      "id": "92b88118013115f2f8be9c58551fb2af"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Tekstyl'nykiv Ave, 2, Kherson, Khersons'ka oblast, Ukraine, 73002",
+        "name": "Frisor barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.648184, 46.655181],
+        "type": "Point"
+      },
+      "id": "932811483aca899a987a46c93b9960e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вулиця Протасів Яр, 8, Kyiv, Ukraine, 02000",
+        "name": "Tens Nail Kitchen",
+        "type": "Салон манікюру та педикюру"
+      },
+      "geometry": {
+        "coordinates": [30.499764, 50.425783],
+        "type": "Point"
+      },
+      "id": "94170c65a56f0ae8816d91dc9d369051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Nove Hwy, 16, Bucha, Kyivs'ka oblast, Ukraine, 08292",
+        "name": "SOHO Барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.20758, 50.552196],
+        "type": "Point"
+      },
+      "id": "941d0f5374958f805641a712cfa945de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/bradobrey_/",
+        "address": "Набережна вулиця, 6ж, Вишгород, Київська обл., 07301",
+        "name": "Bradobrey X",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.491898, 50.582122],
+        "type": "Point"
+      },
+      "id": "949a93456dfdb7505511bd6435b303b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Marshala Bazhanova St, 4, Kharkiv, Kharkivs'ka oblast, Ukraine, 61002",
+        "name": "Barbershop Chop-Chop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [36.24021, 49.997336],
+        "type": "Point"
+      },
+      "id": "9542a23d7bcb50130f288a3d56e9eb47"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Sholudenka St, 13Б, Vyshhorod, Kyivs'ka oblast, Ukraine, 07302",
+        "name": "20 NAILS - студия маникюра",
+        "type": "Салон манікюру"
+      },
+      "geometry": {
+        "coordinates": [30.487745, 50.589543],
+        "type": "Point"
+      },
+      "id": "9725391ab812465440f6665af5c2ed8a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Yarovytsya St, 17, Luts'k, Volyns'ka oblast, Ukraine, 43000",
+        "name": "GC БАРБЕРШОП ЯРОВИЦЯ",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.328614, 50.753615],
+        "type": "Point"
+      },
+      "id": "979148cc475e82d9d22acb9be79544bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Striletska St, 43, Luts'k, Volyns'ka oblast, Ukraine, 43000",
+        "name": "BARBERMACH Барбершоп & Академія",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.33241, 50.757313],
+        "type": "Point"
+      },
+      "id": "97a33c1aedab0623c210b274eb9634f5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Budivel'nykiv St, 32/2, Kyiv, Ukraine, 02000",
+        "name": "Barber Room",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.612888, 50.452041],
+        "type": "Point"
+      },
+      "id": "97d0ab81d1649f85469081510ef822d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vyacheslava Chornovola St, 13, Rivne, Rivnens'ka oblast, Ukraine, 33028",
+        "name": "Masazhnyy Kabinet",
+        "type": "Салон краси та здоров'я"
+      },
+      "geometry": {
+        "coordinates": [26.252976, 50.617728],
+        "type": "Point"
+      },
+      "id": "980bbbbc3ad86bff084fa1c50f9bcf1e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Lva Tolstoho St, 35-39, Kyiv, Ukraine, 01032",
+        "name": "Tommy Gun",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [30.501606, 50.441639],
+        "type": "Point"
+      },
+      "id": "9822dc641b355f27b551a08193357a62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisor_barbershop_odessa/",
+        "address": "Аркадия Хиллс, Аркадіївський провулок, 9/1, Одеса, Одеська область, 65000",
+        "name": "Frisor Barbershop Odessa III",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.75749231451601, 46.42650994721846],
+        "type": "Point"
+      },
+      "id": "982c2af2db4eb9090dde0ebac889a5a3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Brativ Mikhnovs'kykh St, 31 А, L'viv, L'vivs'ka oblast, Ukraine, 79018",
+        "name": "Cosmetology secrets: косметолог без уколів, масаж, депіляція шугаринг і віск, електроепіляція. Львів",
+        "type": "Косметолог"
+      },
+      "geometry": {
+        "coordinates": [24.003405, 49.841126],
+        "type": "Point"
+      },
+      "id": "983db1f6a3818581ed317bb44b6d14f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://alsbarbershop.com.ua/",
+        "address": "вулиця Івасюка, 7, Івано-Франківськ, Івано-Франківська область, 76009",
+        "name": "AL’S Barbershop Ivano-Frankivsk II",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.702764, 48.933883],
+        "type": "Point"
+      },
+      "id": "9a843e5cd17079e7b54f967724a2c88e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/h4_salon/",
+        "address": "вулиця Дмитра Данилишина, 6, Львів, Львівська область, 79007",
+        "name": "H4 Salon",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [24.020896, 49.844311],
+        "type": "Point"
+      },
+      "id": "9b4196454ff5fdd401cbeac0e372a45b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/geometria.hairspace/",
+        "address": "вулиця Глибочицька, 73, Київ, 04052",
+        "name": "GEOMETRIA | Салон краси | Київ",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.501394, 50.463215],
+        "type": "Point"
+      },
+      "id": "9b81fda0046a22982a97e8932402e754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Universitetska St, 2, Irpin, Kyivs'ka oblast, Ukraine, 08200",
+        "name": "GC Barbershop/Барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.233222, 50.508222],
+        "type": "Point"
+      },
+      "id": "9bd0227374853a3a42548eb13d29ac69"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Sakharova St, 36, Odesa, Odes'ka oblast, Ukraine, 65000",
+        "name": "Aldobarbers",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.808216, 46.577577],
+        "type": "Point"
+      },
+      "id": "9d1abbf36e27238c2446b2f4360fa86f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/naichuk.cosmetology/",
+        "address": "вулиця Коперника, 6, Чернівці, Чернівецька область, 58000",
+        "name": "Cosmetology Center by Alina Naichuk",
+        "type": "Косметологічний центр"
+      },
+      "geometry": {
+        "coordinates": [25.939048, 48.271829],
+        "type": "Point"
+      },
+      "id": "9d3c788359ec8913d76cbdd6c833708f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/razorskiev/",
+        "address": "бульвар Тараса Шевченка, 48А, Київ, 02000",
+        "name": "Razors barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.496543, 50.44609],
+        "type": "Point"
+      },
+      "id": "9d7f681788ed441ae7b0581da75ce27d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "пр. Мира 2к - жилой комплекс, Дніпро, Дніпропетровська область, 49000, Dnipro, Dnipropetrovs'ka oblast, Ukraine, 49130",
+        "name": "Sharp Blade, Барбершоп Днепр, Мужская парикмахерская. Барбершоп на Левобережном.",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [35.022931, 48.526308],
+        "type": "Point"
+      },
+      "id": "9d99094b75fd147f3c4ac2f334938880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vulytsya Vasylya Symonenka, 30а, Brovary, Kyivs'ka oblast, Ukraine, 07400",
+        "name": "STRUM— барбершоп/barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.775837, 50.515931],
+        "type": "Point"
+      },
+      "id": "9dc5ef0f7fb7a61f496c7985105f907b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Victory Ave, 83, Chernihiv, Chernihivs'ka oblast, Ukraine, 14000",
+        "name": "Podval barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [31.293883, 51.49305],
+        "type": "Point"
+      },
+      "id": "9de1923a73a8d957dc7a0594cfbc6b1f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisor_barbershop_odessa/",
+        "address": "вхід INTERSPORT, Овідіопольська дорога, 1 Епіцентр 7км, Одеса, Одеська область, 65000",
+        "name": "Frisor Barbershop Odessa lV",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.494228, 46.447339],
+        "type": "Point"
+      },
+      "id": "9e58d43f022e5117a1447fcb004b1c35"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vulytsya Hetʹmana Ivana Mazepy, 74, Kolomyia, Ivano-Frankivs'ka oblast, Ukraine, 78200",
+        "name": "General Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.046599, 48.524744],
+        "type": "Point"
+      },
+      "id": "9edf30d7f927632b66b40f2b4837a9e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вул. Кульпарківська, 64а, Львів, Львівська область, 79000",
+        "name": "Impero Barbers",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [23.98703, 49.826521],
+        "type": "Point"
+      },
+      "id": "9f55b2ef5105d00d90e11a85b715faf6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вулиця Соборна 56, Винница, Винницкая область, Вінниця, Вінницька область, 21021",
+        "name": "Continental",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [28.465386, 49.233315],
+        "type": "Point"
+      },
+      "id": "a34928dbdef7a838b2cf00f0ae176207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Velyka Vasylkivska St, 5/1, Kyiv, Ukraine, 01004",
+        "name": "THE WAX BAR depilation studio",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.520488, 50.440987],
+        "type": "Point"
+      },
+      "id": "a3f79d96566daef17a2f80f303edccc2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/bradobrey_/",
+        "address": "вулиця Родини Крістерів, 20-А, Київ, 04208",
+        "name": "Bradobrey VI",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.420622, 50.502715],
+        "type": "Point"
+      },
+      "id": "a4cd8d20d5f769ce94c823e2dc7ef24a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/beauty.detali?igshid=MzRlODBiNWFlZA==",
+        "address": "Mykhaila Hrushevskoho St, 1, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76000",
+        "name": "BEAUTY DETALI",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [24.710191, 48.920461],
+        "type": "Point"
+      },
+      "id": "a59eceaeeda337caa1532a86a289ce24"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Sholudenka St, 13 б, Vyshhorod, Kyivs'ka oblast, Ukraine, 07302",
+        "name": "The Sharp Club Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.487815, 50.589715],
+        "type": "Point"
+      },
+      "id": "a6f9838e2d29cedb5c95138d59e8b6fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Oleksa Dovbush St, 8, Kolomyia, Ivano-Frankivs'ka oblast, Ukraine, 78200",
+        "name": "Aries Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.035204, 48.527917],
+        "type": "Point"
+      },
+      "id": "a7d2f4f2bab78876a61814616efee2bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/kharkov_lash/",
+        "address": "Haharina Ave, 20, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+        "name": "Guseva Lash",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [36.246525, 49.980191],
+        "type": "Point"
+      },
+      "id": "a7ecb441b51db960e79fb2386c6afb6b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Миру, 17 і, Obukhiv, Kyivs'ka oblast, Ukraine, 08702",
+        "name": "Lavender studio sugar & wax: шугаринг / воск, електроепіляція",
+        "type": "Салон електроепіляції"
+      },
+      "geometry": {
+        "coordinates": [30.653126, 50.128396],
+        "type": "Point"
+      },
+      "id": "a8ca6d0f0af2088d8b5b0f85f4940769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Inhlezi St, Odesa, Odes'ka oblast, Ukraine, 65000",
+        "name": "Салон Красоты Beauty Mama",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.722645, 46.416214],
+        "type": "Point"
+      },
+      "id": "a92d45c60015131fa65cb6fb48cab0f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kazymyra Malevycha St, 86К, Kyiv, Ukraine, 02000",
+        "name": "THE WAX BAR school and depilation studio",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.518257, 50.415614],
+        "type": "Point"
+      },
+      "id": "a983777c7565984f4b36825aa762342c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Akademika Korol'ova St, д.74а, Odesa, Odes'ka oblast, Ukraine, 65000",
+        "name": "Салон эпиляции и татуажа БОГИНЯ - Таирова",
+        "type": "Салон епіляції"
+      },
+      "geometry": {
+        "coordinates": [30.722599, 46.396449],
+        "type": "Point"
+      },
+      "id": "a9f787e25cbfd962caea16f9c83922d6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Raisy Okipnoi St, 4А, Kyiv, Ukraine, 02000",
+        "name": "ORDER BARBERSHOP",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.594325, 50.449971],
+        "type": "Point"
+      },
+      "id": "aad740fc0114d9b633ac15ead2891074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/sargan_beauty_space/",
+        "address": "вулиця Вишгородська, 45, Київ, 04114",
+        "name": "Sargan_beauty_space",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.44564, 50.509213],
+        "type": "Point"
+      },
+      "id": "aaf53c1534a6f54c5e056118ab3a24da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://alsbarbershop.com.ua/",
+        "address": "вулиця Шевченка, 38, Львів, Львівська область, 79016",
+        "name": "AL'S Barbershop Lviv",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.010574, 49.843835],
+        "type": "Point"
+      },
+      "id": "ab7e0b63d0aad4b5c51aaf3d683045f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Bohdana Khmel'nyts'koho blind Alley, 34, Chernivtsi, Chernivets'ka oblast, Ukraine, 58000",
+        "name": "LASERGOOD CV, центр лазерної косметології",
+        "type": "Косметологічний салон"
+      },
+      "geometry": {
+        "coordinates": [25.933803, 48.298073],
+        "type": "Point"
+      },
+      "id": "ad1ff0fac6c23704cc57ed6abd1ba6b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "vulytsia Boholiubova, 14, Sofiivska Borshchahivka, Kyivs'ka oblast, Ukraine, 08131",
+        "name": "Shkira - Косметологія",
+        "type": "Косметологічний салон"
+      },
+      "geometry": {
+        "coordinates": [30.377906, 50.399074],
+        "type": "Point"
+      },
+      "id": "ad3bf560286f26298ccbcef4634e812a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Solomianska St, 15 А, Kyiv, Ukraine, 03110",
+        "name": "Brow Bar Okis",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.478789, 50.424524],
+        "type": "Point"
+      },
+      "id": "adc1cb3e4b54a541b89215d0eaabb02e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Sadova St, 4, Mykolaiv, Mykolaivs'ka oblast, Ukraine, 54001",
+        "name": "Frisor",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.004444, 46.969166],
+        "type": "Point"
+      },
+      "id": "add95e29d03c732e0e47fd474dcd2d89"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/bradobrey_/",
+        "address": "бульвар Кольцова, 14Ж, Київ, 03194",
+        "name": "Bradobrey V",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.37996, 50.423249],
+        "type": "Point"
+      },
+      "id": "ae0f1a1dab78ac988c7005f81b81786d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Tadeusha Kostyushka St, 4, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+        "name": "Milady",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [24.024895, 49.839584],
+        "type": "Point"
+      },
+      "id": "b052411d5b74f60cc12c08d3dc8571cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/gg.barbershop.che?igshid=YzAyZWRlMzg=",
+        "address": "Pushkina St, 67, Cherkasy, Cherkas'ka oblast, Ukraine, 18000",
+        "name": "GGBARBERSHOP",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.049765, 49.447262],
+        "type": "Point"
+      },
+      "id": "b070287423363db022240b4348b91853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisorworkshop/",
+        "address": "вулиця Деревлянська, 21, Київ, 02000",
+        "name": "Frisor Barbershop 15 Lukyanivka",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.429927, 50.464067],
+        "type": "Point"
+      },
+      "id": "b154cfd0566bee725a5065ce70536272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisorworkshop/",
+        "address": "Харківське шосе, 7/13, Київ, 02000",
+        "name": "Frisor Barbershop Kyiv XIII",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.6275979, 50.4383817],
+        "type": "Point"
+      },
+      "id": "b1c8abccba11058f1742613777a670c6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vulytsya Ivana Pokhytonova, 7, Kropyvnytskyi, Kirovohrads'ka oblast, Ukraine, 25000",
+        "name": "Барбершоп pizhoN.99",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.255166, 48.516199],
+        "type": "Point"
+      },
+      "id": "b289fd6c794abe41fb0695dbd00b3d3e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/_nikatime_/",
+        "address": "вулиця Середньофонтанська, 40, Одеса, Одеська область, 65000",
+        "name": "Ніка Тайм - клінінг",
+        "type": "Прибирання будинків і споруд"
+      },
+      "geometry": {
+        "coordinates": [30.735493, 46.453011],
+        "type": "Point"
+      },
+      "id": "b33621cc046ffe6e576f054daa047beb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kozats'kyi Val St, 2А, Sumy, Sums'ka oblast, Ukraine, 40000",
+        "name": "Shokk Project Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [34.796191, 50.908779],
+        "type": "Point"
+      },
+      "id": "b33fbd2defddca45f23a0c307d842f93"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Dmytrivska St, 76, Kyiv, Ukraine, 01135",
+        "name": "Leo. Стрижки, трітмент, колористика. Унісекс формат",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.488361, 50.454009],
+        "type": "Point"
+      },
+      "id": "b3788790db119948f014542c3cc46cbe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Antonovycha St, 3, Kyiv, Ukraine, 02000",
+        "name": "FIRM Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.51411, 50.439034],
+        "type": "Point"
+      },
+      "id": "b48a60325062289ea9670a7de347ca47"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/hazehairdressingbar/",
+        "address": "Reitarska St, 16, Kyiv, Ukraine, 01054",
+        "name": "haze",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.511488, 50.451879],
+        "type": "Point"
+      },
+      "id": "b55d7b657742e0d08f31f36089229763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вулиця Берковецька, 6Д, Київ, 04128",
+        "name": "Impero Barbershop Kyiv",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.359998, 50.495084],
+        "type": "Point"
+      },
+      "id": "b58be387cdcb2fcd89bab554674cf7b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Het'mana Mazepy St, 11б, Ivano-Frankivs'k, Ivano-Frankivs'ka oblast, Ukraine, 76000",
+        "name": "LASERGOOD IF, центр лазерної косметології",
+        "type": "Дерматологічна клініка"
+      },
+      "geometry": {
+        "coordinates": [24.704644, 48.920254],
+        "type": "Point"
+      },
+      "id": "b592df2d9f02900d6e24e58f6314b33c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Heorhiia Toropovskoho St, 2, Kyiv, Ukraine, 02100",
+        "name": "Wella Academy - Академія Перукарів",
+        "type": "Школа перукарів"
+      },
+      "geometry": {
+        "coordinates": [30.608382, 50.4531],
+        "type": "Point"
+      },
+      "id": "b5fc472067842bdec20fc721f3f8fdcb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/bradobrey_/",
+        "address": "Харківське шосе, 56, Київ, 02000",
+        "name": "Bradobrey III",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.640886, 50.424252],
+        "type": "Point"
+      },
+      "id": "b6ae0e398ab1aaed46fac7e4be4b9ef1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/vangogh_nail_browbar/",
+        "address": "вул.Верхній Вал,22",
+        "name": "Salon Van Gogh Поділ",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.509737, 50.465707],
+        "type": "Point"
+      },
+      "id": "b6d37810a916335fd3c2ab6adfa369a1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вул. Чміленка, 96B, вулиця Гоголя, 80 К, Kropyvnytskyi, Kirovohrads'ka oblast, Ukraine, 25000",
+        "name": "Barbershop Barber Pol",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.269602, 48.508105],
+        "type": "Point"
+      },
+      "id": "b85f667b38be367f4d479caab032ce4d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вулиця Ярославська, 6, Київ, 04072",
+        "name": "Cartel",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.507793, 50.466476],
+        "type": "Point"
+      },
+      "id": "b978265dd593795892598b8eb0c2b8b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Oleksandrivskyj Ave, 87, Kharkiv, Kharkivs'ka oblast, Ukraine, 61007",
+        "name": "Барбершоп Thompson",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [36.370646, 49.942561],
+        "type": "Point"
+      },
+      "id": "b97832bba4185927953727bc9bb14f04"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/minibarber_kr",
+        "address": "Vulytsya Shulʹhynykh, 16, Kropyvnytskyi, Kirovohrads'ka oblast, Ukraine, 25006",
+        "name": "Minibarber",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.260821, 48.51153],
+        "type": "Point"
+      },
+      "id": "b992f124f5ee17909e2c9fb2e46fa41c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/bradobrey_/",
+        "address": "проспект Перемоги, 125, Київ, 02000",
+        "name": "Bradobrey IV",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.351097, 50.453958],
+        "type": "Point"
+      },
+      "id": "b9f75aee784c5be80dbca0c9c114b01e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/_gnailstudio_/?img_index=1",
+        "address": "вулиця Деміївська, 18",
+        "name": "Gnailstudio",
+        "type": "Манікюрний салон"
+      },
+      "geometry": {
+        "coordinates": [30.507216, 50.402987],
+        "type": "Point"
+      },
+      "id": "bb060634d28ce67deb0971659fb7996c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Perfets'koho St, 2, L'viv, L'vivs'ka oblast, Ukraine, 79017",
+        "name": "Кріоліполіз Львів: FineLine",
+        "type": "Послуги зі схуднення"
+      },
+      "geometry": {
+        "coordinates": [23.989007, 49.813832],
+        "type": "Point"
+      },
+      "id": "bc4aca223947dbf367de3b4530549943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisorworkshop/",
+        "address": "вул. Оноре де Бальзака, 12, Київ, 01034",
+        "name": "Frisor Barbershop Kyiv 9",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.5836816, 50.5065367],
+        "type": "Point"
+      },
+      "id": "bda8df29353efa4251618e1f07dd7ebe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "http://www.instagram.com/gestalt.barbershop",
+        "address": "Kiricheka St, 5/1, Irpin, Kyivs'ka oblast, Ukraine, 08205",
+        "name": "Gestalt",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.240787, 50.522684],
+        "type": "Point"
+      },
+      "id": "be2b074e4db71fe30bc907e76c6cfbbf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisorworkshop/",
+        "address": "проспект Павла Тичини, 9, Київ, 02000",
+        "name": "Frisor 11",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.5998876, 50.4286236],
+        "type": "Point"
+      },
+      "id": "be2c7ca471b1babf88ab8082f16c5dbc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Sakharova St, 24, Odesa, Odes'ka oblast, Ukraine, 65000",
+        "name": "Папа+Син перукарня",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [30.805225, 46.574805],
+        "type": "Point"
+      },
+      "id": "be2f11df07327c79573a9f2847aec0cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vynnychenka St, 23, Luts'k, Volyns'ka oblast, Ukraine, 43000",
+        "name": "GC Barbershop/Барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.327285, 50.748793],
+        "type": "Point"
+      },
+      "id": "be6d9c174e4d9ba36f4438609bb42b2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/barberpole.kr/",
+        "address": "вул. Чміленка 96 Б",
+        "name": "BARBER POLE",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [32.267027, 48.508105],
+        "type": "Point"
+      },
+      "id": "bec06c3c36baf878f2231fca401463c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Ivana Franka St, 36, Kyiv, Ukraine, 02000",
+        "name": "West",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [30.508157, 50.446151],
+        "type": "Point"
+      },
+      "id": "c03e7f94d33816805f9f3a31de55e64c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Soborna St, 13, Mykolaiv, Mykolaivs'ka oblast, Ukraine, 54000",
+        "name": "The HEADS Barber Studio (Tommy Gun Barbershop)",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [31.987976, 46.9654],
+        "type": "Point"
+      },
+      "id": "c04e0dc7462758178bce4d82a10a1025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/cutpoint_barbershop?utm_medium=copy_link",
+        "address": "Robitnycha St, 3, Boryspil', Kyivs'ka oblast, Ukraine, 08300",
+        "name": "CutPoint",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.944683, 50.357436],
+        "type": "Point"
+      },
+      "id": "c0aa07bb28f303d3b42666aff7748e93"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/redblack.barbershop/",
+        "address": "Hertsena St, 3, Chernivtsi, Chernivets'ka oblast, Ukraine, 58000",
+        "name": "BARBERSHOP REDBLACK",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.944772, 48.277231],
+        "type": "Point"
+      },
+      "id": "c3014b1bc3d97d2b55c9b2930d570c64"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Pushkinska St, 2, Mykolaiv, Mykolaivs'ka oblast, Ukraine, 54000",
+        "name": "SG Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [31.988438, 46.977554],
+        "type": "Point"
+      },
+      "id": "c47e8da8f560f17bd2ccc14bc711be72"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisorworkshop/",
+        "address": "проспект Перемоги, 16, Київ, 02000",
+        "name": "Frisor Barbershop Kyiv Peremogy",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.476358, 50.449522],
+        "type": "Point"
+      },
+      "id": "c48930aa2b94b920c52bdd840630aad9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "ТЦ Сихів вулиця Сихівська 16а 4 поверх Zarpa, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+        "name": "Zarpa Tsentr Fizychnoyi Terapiyi, Masazhu I Diahnostyky",
+        "type": "Ресоціалізаційний центр"
+      },
+      "geometry": {
+        "coordinates": [24.064171, 49.795343],
+        "type": "Point"
+      },
+      "id": "c4aefddc5c53708fc947068279e42019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://b800211.alteg.io/?referrer=https://l.instagram.com/",
+        "address": "Hoholya Ln, 12, Bila Tserkva, Kyivs'ka oblast, Ukraine, 09100",
+        "name": "BarberHouse",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.120386, 49.798023],
+        "type": "Point"
+      },
+      "id": "c4b3313e7166a21f80205cfa7b99ea9a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Shevchenka St, 32, Bucha, Kyivs'ka oblast, Ukraine, 08292",
+        "name": "Rufford Barbershop Bucha",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.232343, 50.555076],
+        "type": "Point"
+      },
+      "id": "c53e8a301c6bc3cbb0124d5c20661cfe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisor_barbershop_dnipro/",
+        "address": "вул. Олеся Гончара, 10",
+        "name": "Frisor Barbershop Dnipro",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [35.056432, 48.454435],
+        "type": "Point"
+      },
+      "id": "c570a4dcb38240e8f8df45ae9eefc701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/manesclub_barbershop/",
+        "address": "Поштовий проспект, 16, Кривий Ріг, Дніпропетровська область, 50000",
+        "name": "MANES CLUB BARBERSHOP",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [33.339682, 47.903367],
+        "type": "Point"
+      },
+      "id": "c682f2e51ab0b25f97a46f98499bafcd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisor_barbershop_kharkiv/",
+        "address": "Харків, вул. Маяковського, 2",
+        "name": "Frisor barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [36.2395559, 50.0111471],
+        "type": "Point"
+      },
+      "id": "c71329f0def268d256dc7c2ed034023a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/at_nailstudio?igshid=ht2tefcsvs73",
+        "address": "AT Nail Studio, Lisna St, 50А, Zubra, L'vivs'ka oblast, Ukraine, 81135",
+        "name": "Anna Tsap Nail Studio",
+        "type": "Манікюрний салон"
+      },
+      "geometry": {
+        "coordinates": [24.05179, 49.781818],
+        "type": "Point"
+      },
+      "id": "c7871e2090394807808866304247a281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Vulytsya Shevchenka, 4-Д, Irpin, Kyivs'ka oblast, Ukraine, 08200",
+        "name": "Barbershop Garage Irpin",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.243415, 50.520681],
+        "type": "Point"
+      },
+      "id": "c817582c6e7b05be766d7c075c086eaa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Heroiv Kharkova Ave, 41, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+        "name": "Corleone",
+        "type": "Перукар"
+      },
+      "geometry": {
+        "coordinates": [36.244887, 49.989532],
+        "type": "Point"
+      },
+      "id": "c81b4ea700ba235fc969f396db2da282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisorworkshop/",
+        "address": "вулиця Шота Руставелі, 33а, Київ, 02000",
+        "name": "Frisor Barbershop 14",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.458334, 50.44952],
+        "type": "Point"
+      },
+      "id": "cc5ab3d627f3bb52a832e9b2cb5c10fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Travnevyi Ln, 8, Fontanka, Odes'ka oblast, Ukraine, 65000",
+        "name": "Mon Pion",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.838915, 46.561399],
+        "type": "Point"
+      },
+      "id": "cc604dcdecd3b06dc7801f216aa0c446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisor_barbershop_odessa/",
+        "address": "Сегедська вулиця, 18, Одеса, Одеська область, 65000",
+        "name": "Frisor Barbershop Odessa ll",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.742390796988065, 46.44613003103832],
+        "type": "Point"
+      },
+      "id": "ccc29599f110855fd3a27bb1eb357d07"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Halytska St, 7, Kyiv, Ukraine, 04127",
+        "name": "Люсьєн",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.437872, 50.508892],
+        "type": "Point"
+      },
+      "id": "cd3653a0fbb666fa3aad87328c44ab1c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Universytets'ka St, 35/2, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+        "name": "Барбер-Студия Lighthouse",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [36.230641, 49.9859],
+        "type": "Point"
+      },
+      "id": "cefd0754d727e2b2f240907ab8d7e72b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Hetman Pavlo Polubotka St, 32, Kyiv, Ukraine, 02094",
+        "name": "Клініка еферентної терапії лікаря Чорномиза",
+        "type": "Медичний центр"
+      },
+      "geometry": {
+        "coordinates": [30.620215, 50.4563],
+        "type": "Point"
+      },
+      "id": "cf40faa6cd3fbc89547e2b4c809be553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Dvoryans'ka St, 27, Odesa, Odes'ka oblast, Ukraine, 65000",
+        "name": "ArtAlex beauty lab",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.726819, 46.484049],
+        "type": "Point"
+      },
+      "id": "d0884f8281e6e3ef738bccb00a0930ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Heroiv Kharkova Ave, 2/2, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+        "name": "Shelby's Barber Family",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [36.233869, 49.989818],
+        "type": "Point"
+      },
+      "id": "d09dd93125c68413d88e2438862eaf57"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Maryny Tsvjetajevoi St, 13, Kyiv, Ukraine, 02138",
+        "name": "Lumberjack",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [30.610596, 50.522794],
+        "type": "Point"
+      },
+      "id": "d113f0779e258b4d24b35bf0589a0aa2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/bradobrey_/",
+        "address": "Оболонський проспект, 36Д, Київ, 04214",
+        "name": "Bradobrey II",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.500097, 50.518977],
+        "type": "Point"
+      },
+      "id": "d194d322203c6e3f796d111761332b8d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisorworkshop/",
+        "address": "вулиця Дмитра Луценка, Британьський квартал, 10 А, Київ, 03191",
+        "name": "Frisor Barbershop Kyiv Dmytra Lutsenka",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.4444807,50.3857309],
+        "type": "Point"
+      },
+      "id": "d1b445138095df90e9df15bd44b07e73"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Drahomanova St, 18, Rivne, Rivnens'ka oblast, Ukraine, 33017",
+        "name": "GC BARBERSHOP II",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [26.251655, 50.615689],
+        "type": "Point"
+      },
+      "id": "d325a57146accdde50d0836cad5d4c2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisor_ternopil/",
+        "address": "Вул.Тарнавського 38",
+        "name": "Frisor Ternopil II",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.593908, 49.558108],
+        "type": "Point"
+      },
+      "id": "d3aae9b5caa63966c82c495141ad5012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Truskavetska St, 127, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+        "name": "Charlie&Woof Grooming Space",
+        "type": "Грумінг-салон"
+      },
+      "geometry": {
+        "coordinates": [23.989649, 49.797763],
+        "type": "Point"
+      },
+      "id": "d565b62adb130c120caa11395b627164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/manesclub_barbershop_gagarina/",
+        "address": "проспект Гагаріна, 51",
+        "name": "MANES CLUB BARBERSHOP",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [33.406197, 47.909167],
+        "type": "Point"
+      },
+      "id": "d5672158dd82785165a0e436b3993540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Valova St, 14, Ternopil, Ternopil's'ka oblast, Ukraine, 46000",
+        "name": "GC BARBERSHOP",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.592541, 49.5517],
+        "type": "Point"
+      },
+      "id": "d5a405cab935c5ad0f50c39d773b37ed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisor_ivano_frankivsk/",
+        "address": "вулиця Івасюка, 19А, Івано-Франківськ, Івано-Франківська область, 76003",
+        "name": "Барбершоп Frisor Ivano-Frankivsk V Каскад",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.7389544, 48.9370772],
+        "type": "Point"
+      },
+      "id": "d686fa9eb85c34fe6b838895c647b559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Akademika Hlushkova Ave, 9д, Kyiv, Ukraine, 02000",
+        "name": "Calipso Барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.467647, 50.372922],
+        "type": "Point"
+      },
+      "id": "d6b63bbcee204116b60d8c4996908103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/manesclub_barbershop_zarechniy/",
+        "address": "4-й Зарічний мікрорайон, 21, Кривий Ріг, Дніпропетровська область, 50106",
+        "name": "MANES CLUB BARBERSHOP",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [33.478171, 47.999386],
+        "type": "Point"
+      },
+      "id": "d88d1efa34b46aba9b94aaccea023b10"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisorworkshop/",
+        "address": "вулиця Басейна, 9, Київ, 02000",
+        "name": "Frisor Barbershop Kyiv Baseina",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.5204172, 50.440762],
+        "type": "Point"
+      },
+      "id": "db95b0b99f469b27ca85fdc377337957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Shyroka St, 41, Sarny, Rivnens'ka oblast, Ukraine, 34500",
+        "name": "Mr.Monkey",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [26.617411, 51.335469],
+        "type": "Point"
+      },
+      "id": "dcc6d89ae9489f8fea616bbeba702af2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Bulʹvar Oleksandriysʹkyy, 50, Bila Tserkva, Kyivs'ka oblast, Ukraine, 09100",
+        "name": "SHOP Barbershop | Барбершоп Біла Церква",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.101694, 49.807575],
+        "type": "Point"
+      },
+      "id": "dccfef576e46835a464577e0731016b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/kvsk_byuro_krasy",
+        "address": "Kostiantynivska St, 37а, Kyiv, Ukraine, 04071",
+        "name": "Київське бюро краси",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.508083, 50.46908],
+        "type": "Point"
+      },
+      "id": "dd4db6bde766691e6fd793a2d3b475ad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Symonenka St, 4 В, Vyshhorod, Kyivs'ka oblast, Ukraine, 07300",
+        "name": "S3Art Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.483612, 50.581906],
+        "type": "Point"
+      },
+      "id": "dd4ee98eaba63d88062c360ec51eaeef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Khreschatyk St, 1/2, Kyiv, Ukraine, 01001",
+        "name": "GC Barbershop/Барбершоп",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.528052, 50.451404],
+        "type": "Point"
+      },
+      "id": "dda14994b87a9be2b1da47cc6a104ee7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Proskurivs'koho Pidpillya St, 46, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29013",
+        "name": "Еліт. Косметологія і лазерна епіляція.",
+        "type": "Послуги з лазерної епіляції"
+      },
+      "geometry": {
+        "coordinates": [26.982534, 49.424821],
+        "type": "Point"
+      },
+      "id": "de7717a04b1c6903d673767c273296fa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Tarasa Shevchenka Ln, 3, Kyiv, Ukraine, 02000",
+        "name": "Aldobarbers Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.520921, 50.450803],
+        "type": "Point"
+      },
+      "id": "dfd0b82d0cf5b6aeeca56b1552d35e5b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/barbershop.republic13?igshid=OGQ5ZDc2ODk2ZA==",
+        "address": "Rodyny Kistiakivskykh St, 2, Kyiv, Ukraine, 03187",
+        "name": "Barbershop Republic 13 ",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.44904, 50.369709],
+        "type": "Point"
+      },
+      "id": "e00b585f71f384143fcd4fa741730d08"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/astoria_studio_?igshid=YmMyMTA2M2Y=",
+        "address": "Alimpiia Halyka St, 75, Kyiv, Ukraine, 02132",
+        "name": "Astoria Studio",
+        "type": "Масажний спа-центр"
+      },
+      "geometry": {
+        "coordinates": [30.602581, 50.392181],
+        "type": "Point"
+      },
+      "id": "e0bfa29f91979ee70fa11a93354b0ce3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Het'mana Polubotka St, 5, Chernihiv, Chernihivs'ka oblast, Ukraine, 14000",
+        "name": "Bronson barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [31.303613, 51.494196],
+        "type": "Point"
+      },
+      "id": "e1591751c8889f69594f1bbc2a2ce5d5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/purpurstudia_kiev/",
+        "address": "вулиця Миколи Голего, 5, Київ",
+        "name": "PUR PUR BEAUTY STUDIO",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.438564, 50.439526],
+        "type": "Point"
+      },
+      "id": "e230c5c41860a41d6a6e1ad92d4dfe58"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вул. Кульпарківська, 226а, Львів, Львівська область, 79000",
+        "name": "Impero Barbers",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [23.975463, 49.807367],
+        "type": "Point"
+      },
+      "id": "e281c02e790d1e290212e32ebb4127b1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/the_vibe_barbershop",
+        "address": "Geroyiv Maydanu St, 104, Chernivtsi, Chernivets'ka oblast, Ukraine, 58032",
+        "name": "The VIBE barbershop ",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [25.930233, 48.277301],
+        "type": "Point"
+      },
+      "id": "e29f1c631b50330b98c4bb598f83a8d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/o.massage.me?igshid=YmMyMTA2M2Y=",
+        "address": "Volodymyrska St, 19, Kyiv, Ukraine, 02000",
+        "name": "О.Масаж",
+        "type": "Масажна студія"
+      },
+      "geometry": {
+        "coordinates": [30.517262, 50.452979],
+        "type": "Point"
+      },
+      "id": "e302658fc09f4a4066a9a67b775a16db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Khoryva St, 31б, Kyiv, Ukraine, 04071",
+        "name": "Mr. Greys",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.516984, 50.467605],
+        "type": "Point"
+      },
+      "id": "e471c12d88fa8a84c10877333ce88f8a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Marii Lahunovoi St, 1, Brovary, Kyivs'ka oblast, Ukraine, 07400",
+        "name": "Frisor Barbershop Brovary",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.788493, 50.513827],
+        "type": "Point"
+      },
+      "id": "e50ecdbc39cb142855a422a2161de1ae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/faynarodina/",
+        "address": "Haharina Ave, 43, Kharkiv, Kharkivs'ka oblast, Ukraine, 61000",
+        "name": "Салон краси Файна Родина",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [36.256145, 49.974936],
+        "type": "Point"
+      },
+      "id": "e5b1a938aa2832f7153e818518e575c0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/ts_na_kh?igshid=MzRlODBiNWFlZA==",
+        "address": "Khreshchatyk St, 221, Cherkasy, Cherkas'ka oblast, Ukraine, 18000",
+        "name": "Цирюльня на Хрещатику",
+        "type": "Чоловіча перукарня"
+      },
+      "geometry": {
+        "coordinates": [32.061949, 49.44583],
+        "type": "Point"
+      },
+      "id": "e5bd218da84f051724977a152a2d4b61"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/lazerhall_adam_eva?igshid=qhfza0dl309u",
+        "address": "Shyroka St, 1, Kamianske, Dnipropetrovs'ka oblast, Ukraine, 51900",
+        "name": "Lazer Hall Adam&Eva",
+        "type": "Салон епіляції"
+      },
+      "geometry": {
+        "coordinates": [34.614532, 48.515789],
+        "type": "Point"
+      },
+      "id": "e5c108b9342fcd81c0231adae46e52e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Tadeia Rylskoho Blvd, 3, Kyiv, Ukraine, 02000",
+        "name": "Барбершоп Mr.MANI",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.447176, 50.370844],
+        "type": "Point"
+      },
+      "id": "e63bb8315f8cbc8db0f9d074eb037693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/manesclub_barbershop_odessa/",
+        "address": "вулиця Пастера, 64, Одеса, Одеська область, 65000",
+        "name": "MANES CLUB BARBERSHOP",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.729728, 46.485362],
+        "type": "Point"
+      },
+      "id": "e6f93344402d94d8f337e80caeeceb39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Dzhordzha Vashynhtona St, 8г, L'viv, L'vivs'ka oblast, Ukraine, 79032",
+        "name": "Schwager Barbershop | Барбершоп Львів",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.07397, 49.814036],
+        "type": "Point"
+      },
+      "id": "e7281f1ce42f20e14d1510379ac0915e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kyivs'ka St, 4, Rivne, Rivnens'ka oblast, Ukraine, 33027",
+        "name": "Steffany Nails and Cosmetology",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [26.269524, 50.616514],
+        "type": "Point"
+      },
+      "id": "e75648e091ac13b94b53731046798dcf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kolomyiska St, 1, L'viv, L'vivs'ka oblast, Ukraine, 79000",
+        "name": "BLACKBARBER BARBERSHOP",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [24.060128, 49.788353],
+        "type": "Point"
+      },
+      "id": "e78d99902bee0ff3430f1473a96c98f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "http://instagram.com/wowasap",
+        "address": "Kyivskyi shliakh St, 4, Boryspil', Kyivs'ka oblast, Ukraine, 08300",
+        "name": "ASAP Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.93572, 50.3595],
+        "type": "Point"
+      },
+      "id": "e85d11b010315b0a03be3cea806bfba0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Partyzans'ka St, 30, Kozyn, Kyivs'ka oblast, Ukraine, 08711",
+        "name": "Frisor Козин",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.650937, 50.23168],
+        "type": "Point"
+      },
+      "id": "e8f3cd0c8f240708580873cd6573272a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Sichovykh Striltsiv St, 13, Kyiv, Ukraine, 04053",
+        "name": "Clean Up Trim Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.503241, 50.455918],
+        "type": "Point"
+      },
+      "id": "e931b67138fd3312a029db3ca36c64b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/klyuch.space/",
+        "address": "Тираспольська, 54",
+        "name": "Чоловічий простір КЛЮЧ",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.421317, 50.483586],
+        "type": "Point"
+      },
+      "id": "ea4935aca02fb1ac20ffeec0e305e026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Lisova St, 46, Irpin, Kyivs'ka oblast, Ukraine, 08200",
+        "name": "Frisor Barbershop Irpin",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.235616, 50.506544],
+        "type": "Point"
+      },
+      "id": "eb915c0c85358ce8e7fba75ba8372f63"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/bradobrey_/",
+        "address": "Практична, 1, Київ, 03066",
+        "name": "Bradobrey VII",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.467166, 50.394174],
+        "type": "Point"
+      },
+      "id": "ecb079da5c4acaa827fdcd369f18cc11"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/katana_barbershop_?igshid=Y",
+        "address": "Koshova St, 107, Sofiivska Borshchahivka, Kyivs'ka oblast, Ukraine, 08131",
+        "name": "Katana Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.333747, 50.406486],
+        "type": "Point"
+      },
+      "id": "ef5a94f501fed1c4d554ed325ffbc900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kyivska St, 25, Zhytomyr, Zhytomyrs'ka oblast, Ukraine, 10001",
+        "name": "Barbershop Steel Balls",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [28.665951, 50.257305],
+        "type": "Point"
+      },
+      "id": "f068d97691de49903ec9be5eb418c12a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/nailroom_kh/",
+        "address": "вул. Ярослава Мудрого д. 34",
+        "name": "Nail Room",
+        "type": "Манікюрний салон"
+      },
+      "geometry": {
+        "coordinates": [36.243509, 50.004134],
+        "type": "Point"
+      },
+      "id": "f107d2b2a53cc36a82a542dbcef0237b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Chervonoyi Kalyny Ave, 29А, L'viv, L'vivs'ka oblast, Ukraine, 79070",
+        "name": "LeoDerm",
+        "type": "Медична клініка"
+      },
+      "geometry": {
+        "coordinates": [24.045665, 49.804664],
+        "type": "Point"
+      },
+      "id": "f2233825d44f06b2d8474004c156f6ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/strekozaris?igshid=NDk5N2NlZjQ=",
+        "address": "Raisy Okipnoi St, 4Б, Kyiv, Ukraine, 02002",
+        "name": "Strekozaris",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.59406, 50.450338],
+        "type": "Point"
+      },
+      "id": "f255ce672503f6635e01d6518b044849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/chic.corner.kyiv?igshid=YmMyMTA2M2Y=",
+        "address": "Velyka Okruzhna Vulytsya, 4, Kyiv, Kyivs'ka oblast, Ukraine, 08130",
+        "name": "Chiccorner",
+        "type": "Салон манікюру та педикюру"
+      },
+      "geometry": {
+        "coordinates": [30.356932, 50.429995],
+        "type": "Point"
+      },
+      "id": "f30a3853e8725b0187c5251ab21f6580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Peremohy Ave, 61/2, Kyiv, Ukraine, 03113",
+        "name": "Студія манікюру #DELEEVA Делеева",
+        "type": "Манікюрний салон"
+      },
+      "geometry": {
+        "coordinates": [30.414572, 50.458679],
+        "type": "Point"
+      },
+      "id": "f32f33b73f9d373557f714787170623f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kotsyubyns'koho St, Дом 60, Chernihiv, Chernihivs'ka oblast, Ukraine, 14000",
+        "name": "Industrial hair factory salon×store",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [31.297635, 51.493486],
+        "type": "Point"
+      },
+      "id": "f3306c644bd47a9687a403ba964d204e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/nova.aesthetic.center",
+        "address": "Shevchenka Street, 46, Chernihiv, Chernihivs'ka oblast, Ukraine, 14000",
+        "name": "NOVA aestetic",
+        "type": "Косметологічний центр"
+      },
+      "geometry": {
+        "coordinates": [31.321865, 51.501328],
+        "type": "Point"
+      },
+      "id": "f4701b65b857212f1397f726a17fb1f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Volodymyra Mayakovs'koho Ave, 89б, Kyiv, Ukraine, 02232",
+        "name": "Шугаринг Троєщина | SugarMe",
+        "type": "Салон епіляції"
+      },
+      "geometry": {
+        "coordinates": [30.618942, 50.526833],
+        "type": "Point"
+      },
+      "id": "f5f305da61e9d5a33529f98a103a8e94"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisor_barbershop_vinnitsya/",
+        "address": "вулиця В'ячеслава Чорновола, 8А, Вінниця, Вінницька область, 21009",
+        "name": "Frisor barbershop Vinnitsya",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [28.473623, 49.242959],
+        "type": "Point"
+      },
+      "id": "f62c0c426c1d9a08e7c4c4bce54268a7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/bastudio_epil?utm_medium=copy_link",
+        "address": "Sobornosti St, 77а, Poltava, Poltavs'ka oblast, Ukraine, 36000",
+        "name": "BAstudio",
+        "type": "Салон епіляції"
+      },
+      "geometry": {
+        "coordinates": [34.531386, 49.598002],
+        "type": "Point"
+      },
+      "id": "f6739038b5ba916bca027249ee0d0aef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Turhenivska St, 50в, Irpin, Kyivs'ka oblast, Ukraine, 08200",
+        "name": "BRITVA Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.227994, 50.526657],
+        "type": "Point"
+      },
+      "id": "f7ceb260a7ba5b9c347529e134f25efd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Svobody St, 75, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29000",
+        "name": "BarberShop barbery",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [26.987363, 49.419912],
+        "type": "Point"
+      },
+      "id": "f7f7b34ea28b2266a2d9446151986b16"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Mykoly Mikhnovskoho Blvd, 21, Kyiv, Ukraine, 01042",
+        "name": "LUMBERJACK",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.540891, 50.416789],
+        "type": "Point"
+      },
+      "id": "f88fb9252a93f3c83e19f6c804322e1d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Proskurivs'ka St, 33, Khmel'nyts'kyi, Khmel'nyts'ka oblast, Ukraine, 29000",
+        "name": "Barbershop",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [26.985855, 49.423936],
+        "type": "Point"
+      },
+      "id": "f91f51e0d833c3f152e5e8facd2753c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/frisorworkshop/",
+        "address": "вулиця Джона Маккейна, 38, Київ, 01042",
+        "name": "Frisor XVIII Pechersk",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.5394744,  50.4211143],
+        "type": "Point"
+      },
+      "id": "f955bf479349620e09a2bb9e398d44da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/_total_look__/",
+        "address": "вулиця Святослава Хороброго, 31, Дніпро, Дніпропетровська область, 49000",
+        "name": "Total look",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [35.033685, 48.461977],
+        "type": "Point"
+      },
+      "id": "f9665c3d0f982da3c03b991e06fa44bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "вулиця Руданського, 3А, Львів, Львівська область, 79005",
+        "name": "Deluxe by Bezvuliak",
+        "type": "Спа-салон"
+      },
+      "geometry": {
+        "coordinates": [24.027734, 49.83816],
+        "type": "Point"
+      },
+      "id": "f9c4805d895fb113bde2a55d171a4b55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Soborna St, 36, Rivne, Rivnens'ka oblast, Ukraine, 33000",
+        "name": "Barbershop Gentle Razor",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [26.254016, 50.619198],
+        "type": "Point"
+      },
+      "id": "f9fce2ce46ce87f6e6f67f1587f1c822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Soborna St, 118/19, Irpin, Kyivs'ka oblast, Ukraine, 08200",
+        "name": "Салон краси Beauty Stars",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.238242, 50.522962],
+        "type": "Point"
+      },
+      "id": "fb2aa63c6cc7d7d37333eba3aec82ddf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Akademika Korol'ova St, 49, Odesa, Odes'ka oblast, Ukraine, 65497",
+        "name": "Laser Zona",
+        "type": "Салон епіляції"
+      },
+      "geometry": {
+        "coordinates": [30.724526, 46.393172],
+        "type": "Point"
+      },
+      "id": "fd2330ff59c821f34124b7a4d7630013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/next.kyiv/",
+        "address": "Lobanovskyi Ave, 6В, Kyiv, Ukraine, 03037",
+        "name": "Beauty Studio NEXT",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.464527, 50.421204],
+        "type": "Point"
+      },
+      "id": "fd264212bc01fe2f3e662506e00fa9d0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/nofilters_od?r=nametag",
+        "address": "Sakharova St, 5 Б, Odesa, Odes'ka oblast, Ukraine, 65086",
+        "name": "NOFILTERS",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.811193, 46.580205],
+        "type": "Point"
+      },
+      "id": "fdb18210e1c93e740c7d119734570469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://instagram.com/daarise_niko?igshid=YmMyMTA2M2Y=",
+        "address": "Central Ave, 96а, Mykolaiv, Mykolaivs'ka oblast, Ukraine, 54000",
+        "name": "Daarise",
+        "type": "Послуги з лазерної епіляції"
+      },
+      "geometry": {
+        "coordinates": [31.999802, 46.96669],
+        "type": "Point"
+      },
+      "id": "fe1ea81d2c1a2b5ea0bfcdb508ac002c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/manesclub_barbershop_odessa/",
+        "address": "вулиця Польська, 17, Одеса, Одеська область, 65000",
+        "name": "MANES CLUB BARBERSHOP",
+        "type": "Барбершоп"
+      },
+      "geometry": {
+        "coordinates": [30.742092, 46.478711],
+        "type": "Point"
+      },
+      "id": "fe357d709a62dc3fed8a9038391ed1df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Kyivska St, 84, Zhytomyr, Zhytomyrs'ka oblast, Ukraine, 10001",
+        "name": "Steffany Cosmetology",
+        "type": "Косметологічний центр"
+      },
+      "geometry": {
+        "coordinates": [28.677588, 50.261506],
+        "type": "Point"
+      },
+      "id": "fec8c65848091501609ca01cbc0b07bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.instagram.com/_phoenix_nail_studio/",
+        "address": "Soborna St, 105/3, Sviatopetrivske, Kyivs'ka oblast, Ukraine, 08132",
+        "name": "Phoenix Nail Studio",
+        "type": "Салон краси"
+      },
+      "geometry": {
+        "coordinates": [30.321138, 50.396893],
+        "type": "Point"
+      },
+      "id": "fee2c2d814d5152884e8c8e8fdce706f"
+    }
+  ],
+  "type": "FeatureCollection"
+}
