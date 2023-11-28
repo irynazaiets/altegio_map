@@ -107,13 +107,13 @@
 
                 map.on('mouseenter', 'unclustered-point', (e) => {
                     const coordinates = e.features[0].geometry.coordinates.slice();
-                    const { name, type } = e.features[0].properties;
+                    const { name, type, address} = e.features[0].properties;
                     while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
                         coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
                     }
                     popup
                         .setLngLat(coordinates)
-                        .setHTML(`<h3>${name}</h4><p>${type}</p>`)
+                        .setHTML(`<h3>${name}</h3><p>Тип закладу: ${type}</p><p>Адреса: ${address}</p>`)
                         .addTo(map);
                 });
 
